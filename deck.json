@@ -537,24 +537,9 @@
             "dyn": 0,
             "extendNew": 10,
             "extendRev": 50,
-            "media_files": [
-                "latex-14f40715ae200057575863756e11d1ad7c9b2fe7.png"
-            ],
+            "media_files": [],
             "name": "III Nichtlineare Optik",
-            "notes": [
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Das ist eine Testfrage",
-                        "[latex]$A$ntwort[/latex]<br>"
-                    ],
-                    "flags": 0,
-                    "guid": "QY-}8jgz=E",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                }
-            ]
+            "notes": []
         },
         {
             "__type__": "Deck",
