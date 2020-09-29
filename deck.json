@@ -7,6 +7,447 @@
                 {
                     "__type__": "Deck",
                     "children": [],
+                    "crowdanki_uuid": "ce244715-0297-11eb-af4a-4ccc6a4d8422",
+                    "deck_config_uuid": "4de1d3e1-a0f4-11ea-aa1d-b4d5bdceb84f",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 10,
+                    "extendRev": 50,
+                    "media_files": [
+                        "latex-034d3dd6f1142045805927b1eacfcff207df8c8f.png",
+                        "latex-0b9227abd577b964fb1d94bc73281612d2ff35df.png",
+                        "latex-22844ff2ad3f4bc3f8c5ca01ae45c54bd77db10e.png",
+                        "latex-30cc1d6e0591892a1dea32fdb6a8421639721171.png",
+                        "latex-3ff90ef162ee412942119358157c31e237054b8b.png",
+                        "latex-42f65f259a60e1acac03ba0def7a05b3116872ea.png",
+                        "latex-45d64ccce38f172d63095e41ffbdf1cdead6ca65.png",
+                        "latex-489b2ef5f0c654bcbff2bc3ab496547851f0c2f0.png",
+                        "latex-577e9a21dc6d03c9fe5d4d783fde7ba12e35cf8b.png",
+                        "latex-639b939a0abae4bb969d582af60b7201d381e509.png",
+                        "latex-73de4739f5ecc6f33fcc1e98d33a2ce1806f9a77.png",
+                        "latex-741f51103765a75556680d3a477780a5af00e6ce.png",
+                        "latex-7c17e7648776c7e335d8058f086aee9404744d40.png",
+                        "latex-8f245ba5592b33b63d40c804d739844adedcccd7.png",
+                        "latex-926f27afd2ee4c1780bb2fd52e43543fb358586b.png",
+                        "latex-9271ca626f5e0ba30565302931b5a0991345ed00.png",
+                        "latex-98aeb1e855a1450e1927b1669f8c4fb2afa71f92.png",
+                        "latex-9f17c478378486acb2afb9769a8d1dc73159b1c7.png",
+                        "latex-a3b2dffc98230b6068f99d3f93d9a17985e44f80.png",
+                        "latex-a7a60b04bd01289da18ff6231d6c3fbc19080008.png",
+                        "latex-ae58de81a39796c01e4845c896316f4dfa3126c7.png",
+                        "latex-b39af955602f897026db9fed69adcb043ba9bd60.png",
+                        "latex-c168679dee2f65e087071e2d86a3cdbce730fea5.png",
+                        "latex-c48edd7551d96592541b810a208203dd4aed0476.png",
+                        "latex-c6bc2362a063bcb471e746256607f0ceee7a36f9.png",
+                        "latex-cf0f28ca2284fc563e269ce630d16465eaa4fb1b.png",
+                        "latex-cfb4ad47b94e54be14e021d85de11399d1904281.png",
+                        "latex-d483d85b6d3ac60d1e7a7086b324046c630d46ba.png",
+                        "latex-dd656bcd4267f09b42c5b025b6cb3abb9bb97242.png",
+                        "latex-f16595cf57b25ad7b0dd87aac84657dc5fcdbcea.png",
+                        "latex-f3e8600129c574f3aeaa135c55fad630d62dd433.png",
+                        "latex-fccfda7741be6e09402694fce2254c2973c159f6.png",
+                        "latex-ff4033f882215b0a1c7f1378b7e9c5a580c342fe.png",
+                        "paste-1872c60a4eeca2cdc998358b8248408f3ad16818.jpg",
+                        "paste-5b7244be9384de3962a4208a3fe17e2b628639b9.jpg",
+                        "paste-fb4aec19b8db1698ea2438f4d4d78ff7437c015d.jpg",
+                        "paste-fd517195cba640da28856b6e4f89c9278a831652.jpg"
+                    ],
+                    "mid": 1590151653781,
+                    "name": "1 Lasertätigkeit: Verstärkung und Schwellenbedingung",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Wozu dient das Modell des Zweiniveaulasers? Warum funktioniert er nicht in der Realität?[/latex]<br>",
+                                "[latex]Zur verständlicheren Beschreibung des Photonenflusses zwischen angeregtem und ruhendem Niveau.\\\\<div>Man braucht für die Funktion eines Lasers am besten ein vollständig entleertes unterstes Niveau. In der Realität stellt sich bei einem Zweiniveaulaser quantenmechanisch aber eine $50/50$ Verteilung ein.[/latex]</div>"
+                            ],
+                            "flags": 0,
+                            "guid": "O.ai0n]xX>",
+                            "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Wie ist das Modell eines Zweiniveaulasers aufgebaut?[/latex]",
+                                "[latex]\\begin{itemize}<div>&nbsp; \\item Eine Ansammlung aus Zweiniveau-Systemen (Zwei Energielevel $E_1$ und $E_2$)</div><div>&nbsp; \\item Übergangsenergie $h\\boldsymbol v_{21}</div><div>&nbsp; \\item schmalbandiges Strahlungsfeld mit Frequenz $\\boldsymbol v\\approx\\boldsymbol v_{21}$</div><div>\\end{itemize}[/latex]</div><div><img src=\"paste-5b7244be9384de3962a4208a3fe17e2b628639b9.jpg\"><br></div>"
+                            ],
+                            "flags": 0,
+                            "guid": "iW)^Q$RAP^",
+                            "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Nennen Sie die Ratengleichung für die Populationsdichte eines Zweiniveau-Lasers. Bennen Sie die Größen.[/latex]<br>",
+                                "[latex]<br><div>$\\dot N_1 = -\\Gamma_1N_1+A_{21}N_2+\\sigma\\Phi(N_2-N_1)$\\\\</div><div>$\\dot N_2 = -\\Gamma_2N_2-A_{21}N_2-\\sigma\\Phi(N_2-N_1)$\\\\</div><div><br></div><div>$N_1, N_2$\\hfill Raumdichte der Atome in Zustand $E_1, E_2$\\\\</div><div>$A_{21}$\\hfill Spontane Emission von $E_2$ nach $E_1$\\\\</div><div>$\\Phi$\\hfill Photonenfluss\\\\</div><div>$\\Gamma$\\hfill Elektronendissipation (vernachlässigbar)\\\\</div><div>$\\sigma$\\hfill Wirkungsquerschnitt[/latex]</div>"
+                            ],
+                            "flags": 0,
+                            "guid": "jOF`GE`f#E",
+                            "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Was beschreibt der Wirkungsquerschnitt?[/latex]<br>",
+                                "[latex]Der Wirkungsquerschnitt beschreibt mit seiner Abhängigkeit vom Einsteinschen $B$-Koeffizienten die Absorption und stimulierte Emission.\\\\<div><br><div>$\\sigma(\\boldsymbol v)=\\dfrac{h\\boldsymbol v}{c}BS(\\boldsymbol v)$\\\\</div><div><br></div><div>Wobei $S(\\boldsymbol v)$ das normierte Linienprofil (z.B. das Lorentz-Profil) ist, mit\\\\</div><div><br></div><div>$\\int^\\infty_0S(\\boldsymbol v)d\\boldsymbol v = 1$[/latex]</div></div>"
+                            ],
+                            "flags": 0,
+                            "guid": "ncH=-x=:|8",
+                            "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Wie ist der Zusammenhang zwischen Absorption und stimulierter Emission?[/latex]<br>",
+                                "[latex]Prinzipiell der gleiche Prozess. Eigenschaften können beide von Einsteinschen $B$-Koeffizienten charakterisiert werden.[/latex]"
+                            ],
+                            "flags": 0,
+                            "guid": "f]I7~q$Pht",
+                            "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Wie ist der zusammenhang zwischen spontaner und stimulierter Emission (bzw. zwischen spontanter Emission und Absorption)? Was ist die besonderheit?[/latex]",
+                                "[latex]$A_{21}=B\\dfrac{8\\pi h\\boldsymbol v^3}{c^3}$\\\\<div><br></div><div>Besonders ist, dass keine Abhängigkeit zur Temperatur besteht und damit auch für thermisches Ungleichgewicht (wie innerhalb eines Lasers) gültig ist.\\\\</div><div><br></div><div>Außerdem hängt die spontane Emission von der dritten Potenz der Frequenz ab. Das ist der Grund, weshalb Laser bei hohen Frequenzen (wie Ultraviolett) so schwer herzustellen sind.[/latex]</div>"
+                            ],
+                            "flags": 0,
+                            "guid": "rC:P&+`VL{",
+                            "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Ab wann tritt Verstärkung in einem Laser auf?[/latex]",
+                                "[latex]Sobald mehr Elektronen im oberen Niveau als im unteren sind.[/latex]"
+                            ],
+                            "flags": 0,
+                            "guid": "nrLTk/)[Dp",
+                            "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Wie ist der \\textit{gain coefficient} definiert und in welcher Gleichung kommt er zum Tragen?[/latex]",
+                                "[latex]$g(\\nu)=\\dfrac{lambda^2}{8\\pi}A(N_2-N_1)S(\\nu)$\\\\<div><br></div><div>Er gibt Auskunft darüber, wie gut ein Lasermedium als Verstärkungsmedium dient.\\\\</div><div>Zum Tragen kommt er in der Kontinuitätsgleichung für die Intensiät\\\\</div><div><br></div><div>$\\left(\\dfrac{1}{c}\\dfrac{\\partial}{\\partial t}+\\dfrac{\\partial}{\\partial z}\\right)I_\\nu=g(\\nu)I_\\nu$\\\\</div><div><br></div><div>oder im stationären Zustand\\\\</div><br><div>$\\dfrac{\\text{d}I_\\nu}{\\text{d}z}=g(\\nu)I_\\nu$\\\\[/latex]</div>"
+                            ],
+                            "flags": 0,
+                            "guid": "dMeLGb^-C,",
+                            "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Wie ist der Zusammenhang zwischen Besetzungsinversion und Intensität?[/latex]<br>",
+                                "[latex]Die Intensität hängt vom \\textit{gain coefficient} nach der Formel\\\\<div><br><div>$I_\\nu(z) = I_\\nu(0)e^{g(\\nu)z}$\\\\</div><div><br></div><div>ab.\\\\</div><div>Das Vorzeichen des \\textit{gain coefficents} hängt nur von dem Vorzeichen der Besetzungsinversion ab.\\\\</div><div>Das heißt für eine positive Besetzungsinversion (mehr in $N_2$ als in $N_1$), findet mit Lauflänge des Lasermaterials eine exponentielle Verstärkung statt. Für eine negative Besetzungsinversion, eine exponentielle Absorption.[/latex]</div></div>"
+                            ],
+                            "flags": 0,
+                            "guid": "-)PJ@S-3A",
+                            "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Was ist ein Fabry-P\\'erot-Resonator? Nennen Sie ein Beispiel.[/latex]",
+                                "[latex]Ein offener optischer Resonator, entwickelt aus dem Fabry-P\\'erot-Interferometer.\\\\<div>Er besteht aus zwei identischen, planparallelen koazialen Spiegeln, d.h. es handelt sich um einen biplanaren Spiegelresonator.\\\\</div><div><br></div><div>Die ersten Laserresonatoren wie der \\textbf{Rubinlaser} waren Fabry-P\\'erot-Resonatoren.[/latex]</div>"
+                            ],
+                            "flags": 0,
+                            "guid": "q[XcSqX4x[",
+                            "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Wie ist ein Fabry-P\\'erot-Resonator aufgebaut? Benennen Sie charakteristische Größen und deren Zusammenhang.[/latex]",
+                                "[latex]<div>Biplanarer Resonator.</div><div>\\begin{itemize}<div>&nbsp; \\item Reflexions-Koeffizienten $r$</div><div>&nbsp; \\item Transmissions-Koeffizienten $t$</div><div>&nbsp; \\item Verlust-Koeffizienten (Streuung + Absorption) $s$</div><div>&nbsp; \\item Zusammenhang: $r_i + t_i + s_i=1$</div><div>\\end{itemize}[/latex]</div><div><img src=\"paste-fb4aec19b8db1698ea2438f4d4d78ff7437c015d.jpg\"><br></div></div>"
+                            ],
+                            "flags": 0,
+                            "guid": "t3F+#E_*?R",
+                            "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Was ist die Voraussetzung für die Funktion eines Biplanaren Resonators? Was sind Randbedingungen?[/latex]<br>",
+                                "[latex]Voraussetzungen:\\begin{itemize}<div>&nbsp; \\item Zufällige spontane Emission in $z$-Richtung</div><div>&nbsp; \\item Stationäre Bedingungen in Besetzungsinversion (cw-Betrieb (continuous wave)</div><div>&nbsp; \\item Geringe Lichtintensizäten ($N_2-N_1\\approx const.$)</div><div>\\end{itemize}<br><div>Randbedingungen:\\begin{itemize}</div><div>&nbsp; \\item ${I_\\nu}^{(-)}(L)=r_2{I_\\nu}^{(+)}(L)$</div><div>&nbsp; \\item ${I_\\nu}^{(+)}(0)=r_1{I_\\nu}^{(-)}(0)$</div><div>\\end{itemize}</div><div>[/latex]</div><div><div><img src=\"paste-fb4aec19b8db1698ea2438f4d4d78ff7437c015d.jpg\"></div></div></div>"
+                            ],
+                            "flags": 0,
+                            "guid": "Er_rOTw7aM",
+                            "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Beschreiben Sie die Schwellenverstärkung.[/latex]<br>",
+                                "[latex]Unter der Voraussetzung, dass der Laser verstärken soll, darf die Intensität bei einem Durchlauf $z=0$ - $z=L$ - $z=0$ zumindest nicht abnhemen.\\\\<div>Das heißt, die Intensität soll nach doppeltem Durchlauf und doppelter Reflektion immer noch dieselbe sein:\\\\</div><div><br></div><div>${I_\\nu}^{(+)}(0) \\overset{!}{=} \\left( r_1r_2 e^{2g(\\nu)L}\\right){I_\\nu}^{(+)}(0)$\\\\</div><div><br></div><div>Dies bedeutet für den \\textit{gain coefficient}, dass es eine \\textbf{Schwellverstärkung} $g_t$ gibt, nach\\\\</div><div><br></div><div>$g_t=-\\dfrac{1}{2L}\\text{ln}(r_1r_2)$.\\\\</div><div><br></div><div>Beachte: Im stationären Laserbetrieb entspricht die Verstärkung \\textbf{exakt} $g_t$![/latex]<br></div>"
+                            ],
+                            "flags": 0,
+                            "guid": "K[D/[~Fdyh",
+                            "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Was ist im Bezug auf die Niveau-Besetzung eines Lasers gewünscht? Was ist das Problem mit Zwei-Niveau-Lasern? Welche Ansätze lösen diese Problem?[/latex]<br>",
+                                "[latex]Um eine Verstärkung (einen positiven \\textit{gain coefficient}) zu erzielen, ist eine Raumdichtenverteilung der Atome $N_2 &gt; N_1$ notwendig. Im besten Fall ist das untere Niveau sogar vollständig entleert.\\\\<div><br></div><div>Bei einem Zwei-Niveau-Laser stellt sich aber eine quantenmechanische Raumdichtenverteilung von $50/50$ ein.\\\\</div><div><br></div><div>Lösung: Drei- und Vier-Niveau-Laser.[/latex]</div>"
+                            ],
+                            "flags": 0,
+                            "guid": "gH-vXw`8w!",
+                            "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Beschreiben sie qualitativ den Niveau-Übergang eines Drei-Niveau-Lasers. Nennen Sie ein Problem und Beispiele.[/latex]",
+                                "<img src=\"paste-fd517195cba640da28856b6e4f89c9278a831652.jpg\">"
+                            ],
+                            "flags": 0,
+                            "guid": "Gz2N+Tc6tz",
+                            "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Beschreiben sie qualitativ den Niveau-Übergang eines Vier-Niveau-Lasers. Nennen Sie ein Problem und Beispiele.[/latex]",
+                                "<img src=\"paste-1872c60a4eeca2cdc998358b8248408f3ad16818.jpg\"><div><br></div><div>[latex]\\begin{itemize}</div><div>&nbsp; \\item HeNe-Laser (1. cw-Laser (1960!), $\\lambda_{21} = 632.8\\,$nm $, 1.15\\,\\mu$m)</div><div>&nbsp; \\item Nd$^{3+}$:YAG (hohe Leistungen, $\\lambda_{21} = 1064\\,$nm)</div><div>&nbsp; \\item Farbstofflaser (vibronische Zustänre, abstimmbar im VIS)</div><div>&nbsp; \\item Halbleiterlaser (höhere Bandzustände, elektrisch pumpen!)</div><div>\\end{itemize}[/latex]<br></div>"
+                            ],
+                            "flags": 0,
+                            "guid": "nbx(O7__f2",
+                            "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Wie hoch ist $kT$ bei Raumtemperatur?[/latex]",
+                                "[latex]$25\\,$meV[/latex]"
+                            ],
+                            "flags": 0,
+                            "guid": "qAqYcw>?(7",
+                            "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "ce242107-0297-11eb-abc7-4ccc6a4d8422",
+                    "deck_config_uuid": "4de1d3e1-a0f4-11ea-aa1d-b4d5bdceb84f",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 10,
+                    "extendRev": 50,
+                    "media_files": [
+                        "latex-173ccb50c9bad7983a239817997834535f39d083.png",
+                        "latex-18f5891f76ba8d570cf2d893c7256e5ee9741fc6.png",
+                        "latex-4284c547d9c237e756d81c60b296debffe583f97.png",
+                        "latex-4d01eb1543f04fc9d1e4e9dea2b5740ec74d551f.png",
+                        "latex-4e55f2a5c204cd01ea2af976706fdba1e78c3fd9.png",
+                        "latex-50cd53b4a39272afe3f4c6859e1f244b07c2ed3e.png",
+                        "latex-57904a1a2cbdc2ac5020e79429b98e51083f4157.png",
+                        "latex-652e4230cb40a2899490a4a9f0aa05d8436a5cfb.png",
+                        "latex-6e2f1c2d3d7b65b13062486418ab5bc76c1ecef8.png",
+                        "latex-7df771e188d7f50fd74458260a111abe706a3be5.png",
+                        "latex-903fb98bc092df067a47df9fa4720ac25dd105b0.png",
+                        "latex-9b8b7a189a3c75b3a4f1138894314d58348902c4.png",
+                        "latex-9f8db01827412799c47143aef66b38cb00a8da4c.png",
+                        "latex-a9de25b65b3e09e61bb6020f98518c4f655a8105.png",
+                        "latex-b950da64b12cc96e03b96bda1ade5d59c4b2b249.png",
+                        "latex-d58433dea8c441f9212657eb646c052ce492ee2f.png",
+                        "latex-fb363eca1567d0e766396ca5665361baffb75fa2.png",
+                        "paste-120e4854e09d869219e0b979d772820c2fe4434c.png",
+                        "paste-18959faf842663405b980b94ed40547b6d2eff22.png",
+                        "paste-2bbfd9ae60bb0afdfd4b2841e00a421df7efe9b9.jpg",
+                        "paste-2ee89bc860368e60d6992e7e90320e660470aa34.png",
+                        "paste-f7c418384e0bcf53a0f77bd3917125c1e67d11eb.jpg"
+                    ],
+                    "name": "2 Laser-Beispiele",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Nennen Sie drei klassische Arten von Lasern.[/latex]<br>",
+                                "[latex]\\begin{itemize}<div>&nbsp; \\item Optisch gepumpte Festkörperlaser</div><div>&nbsp; \\item Gaslaser</div><div>&nbsp; \\item Halbleiter-Diodenlaser<br><div>\\end{itemize}[/latex]</div></div>"
+                            ],
+                            "flags": 0,
+                            "guid": "NeXObfxgT~",
+                            "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Was sind Vor- und Nachteile von Festkörperlasern?[/latex]",
+                                "[latex]Vorteile:\\begin{itemize}<div>&nbsp; \\item Technisch gut handhabbar</div><div>&nbsp; \\item effiziente Kühlung</div><div>\\end{itemize}</div><div>Nachteile: Isolator:\\begin{itemize}</div><div>&nbsp; \\item kein elektrisches Pumpen möglich</div><div>&nbsp; \\item Energiezufuhr nur optisch</div><div>\\begin{itemize}</div><div>effiziente Pumplichtquelle?[/latex]</div>"
+                            ],
+                            "flags": 0,
+                            "guid": "h>f70LAH<,",
+                            "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Was sind allgemeine Eigenschaften eines Festkörperlasers?[/latex]",
+                                "[latex]\\begin{itemize}<div>&nbsp; \\item Dielektrischer Festkörper ist als Matrix aufgebaut</div><div>&nbsp; \\item Dotiert mit Ionen in Konzentration $10^{18}-10^{20}\\,$cm$^{-3}$</div><div>&nbsp; \\item Ionen der Übergangsmetalle und seltenen Erden</div><div>&nbsp; \\item Breitgefächertes Spektrum an Charakteristiken und Anwendungen</div><div>\\end{itemize}[/latex]</div>"
+                            ],
+                            "flags": 0,
+                            "guid": "tp4JCwj&q-",
+                            "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Was ist das klassische Beispiel für Festkörperlaser? Nennen Sie die Eigenschaften.[/latex]",
+                                "<div>\n<div>\n<div><img src=\"paste-18959faf842663405b980b94ed40547b6d2eff22.png\"></div>\n</div></div>"
+                            ],
+                            "flags": 0,
+                            "guid": "PG)WU8pRuw",
+                            "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Was ist ein Thermschema?[/latex]<br>",
+                                "[latex]Beschreibt, welche Energieniveaus in einem Molekül vorhanden sind.\\\\<div>Beispiel Drei-Niveau-Laser:\\begin{itemize}</div><div>&nbsp; \\item Es existiert ein Grund-Niveau</div><div>&nbsp; \\item Elektronen werden auf höheres Niveau gepumpt</div><div>&nbsp; \\item Elektronen relaxieren nichtemittierend auf niedrigeres, oberes Energie-Niveau</div><div>&nbsp; \\item Von dort gehen sie (stimuliert oder spontan) zurück auf das Grund-Niveau.[/latex]</div><div><img src=\"paste-2bbfd9ae60bb0afdfd4b2841e00a421df7efe9b9.jpg\"><br></div>"
+                            ],
+                            "flags": 0,
+                            "guid": "N^d`hljY|$",
+                            "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Nennen Sie zwei moderne Beispiele für Festkörperlaser und deren Eigenschaften.[/latex]<br>",
+                                "<img src=\"paste-f7c418384e0bcf53a0f77bd3917125c1e67d11eb.jpg\"><div><div>\n<div>\n<div><img src=\"paste-2ee89bc860368e60d6992e7e90320e660470aa34.png\"></div>\n</div></div></div>"
+                            ],
+                            "flags": 0,
+                            "guid": "O!([/7hd/G",
+                            "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Worauf muss bei der Montage eines Scheibenlasers geachtet werden?[/latex]<br>",
+                                "[latex]Er muss sehr rein sein und auf eine Wärmesenke geklebt werden, sonst kommt es zu katastrophalen Wärmeentwicklungen.\\\\<div>Er selbst ist auf einer Seite schon zu $100\\,$\\% verspiegelt und fungiert gleichzeitg als Resonator. [/latex]</div>"
+                            ],
+                            "flags": 0,
+                            "guid": "j}a/,Gr&RH",
+                            "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Was bedeutet homogen und inhomogen im Bezug auf die Dotierungsverteilung eines Lasers?[/latex]",
+                                "[latex]\\begin{itemize}<div>&nbsp; \\item Homogene Verteilung\\\\</div><div>Atome sind immer auf gleichen Gitterplätzen. Jedes Atom sieht genau die gleiche Umgebung, wie die anderen Atome.</div><div>&nbsp; \\item Inhomogene Verteilung\\\\</div><div>Z.B. Gläser. Da sie keine Kristalle und damit weniger geordnet sind, sieht jedes Atom eine andere Umgebung als die anderen. Deswegen haben die Atome leicht unterschiedliche Energieniveaus. (Energetische Lage der Energieniveaus der einzelnen Atome ist nicht überall gleich)<br><div>\\end{itemize}[/latex]</div></div>"
+                            ],
+                            "flags": 0,
+                            "guid": ")x$X+V}})",
+                            "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Warum sind manche Laser schmal- und ander breitbandig?[/latex]",
+                                "[latex]Abhängig von der Wechselwirkung im Kristall, werden die Atome mehr oder weniger vom Kristall gestört (z.B. durch Gitterschwingungen).\\\\Generell gilt, je mehr sich ein Atom ausdehnt, desto mehr wecheslwirkt es mit der Umgebung.\\\\Mehr Störungen führen zu einem breitbandigeren Laser.\\\\<div><br></div><div>Beispielhaft hat Rubin wenig Wechselwirkung mit dem Gitter. Titan-Saphir hat startk mit dem Gitter gekoppelte Atome.[/latex]</div>"
+                            ],
+                            "flags": 0,
+                            "guid": "rrcR:ux*%P",
+                            "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Vergleichen Sie die Größen von verschiedenen Festkörperlasern.[/latex]",
+                                "<div>\n<div>\n<div><img src=\"paste-120e4854e09d869219e0b979d772820c2fe4434c.png\"></div>\n</div></div>"
+                            ],
+                            "flags": 0,
+                            "guid": "xwnu=<v&Y7",
+                            "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                            "tags": []
+                        }
+                    ]
+                }
+            ],
+            "crowdanki_uuid": "ce242103-0297-11eb-b692-4ccc6a4d8422",
+            "deck_config_uuid": "4de1d3e1-a0f4-11ea-aa1d-b4d5bdceb84f",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [],
+            "name": "II Laserphysik",
+            "notes": []
+        },
+        {
+            "__type__": "Deck",
+            "children": [
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "ce235e48-0297-11eb-9d4f-4ccc6a4d8422",
+                    "deck_config_uuid": "4de1d3e1-a0f4-11ea-aa1d-b4d5bdceb84f",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 10,
+                    "extendRev": 50,
+                    "media_files": [],
+                    "name": "Windkanal",
+                    "notes": []
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
                     "crowdanki_uuid": "ce235e40-0297-11eb-adc8-4ccc6a4d8422",
                     "deck_config_uuid": "4de1d3e1-a0f4-11ea-aa1d-b4d5bdceb84f",
                     "desc": "",
@@ -29,19 +470,6 @@
                     "media_files": [],
                     "name": "LDA",
                     "notes": []
-                },
-                {
-                    "__type__": "Deck",
-                    "children": [],
-                    "crowdanki_uuid": "ce235e48-0297-11eb-9d4f-4ccc6a4d8422",
-                    "deck_config_uuid": "4de1d3e1-a0f4-11ea-aa1d-b4d5bdceb84f",
-                    "desc": "",
-                    "dyn": 0,
-                    "extendNew": 10,
-                    "extendRev": 50,
-                    "media_files": [],
-                    "name": "Windkanal",
-                    "notes": []
                 }
             ],
             "crowdanki_uuid": "ce235e3c-0297-11eb-89ac-4ccc6a4d8422",
@@ -52,19 +480,6 @@
             "extendRev": 50,
             "media_files": [],
             "name": "V Anwendung",
-            "notes": []
-        },
-        {
-            "__type__": "Deck",
-            "children": [],
-            "crowdanki_uuid": "ce238431-0297-11eb-9560-4ccc6a4d8422",
-            "deck_config_uuid": "4de1d3e1-a0f4-11ea-aa1d-b4d5bdceb84f",
-            "desc": "",
-            "dyn": 0,
-            "extendNew": 10,
-            "extendRev": 50,
-            "media_files": [],
-            "name": "IV Photoelektronik",
             "notes": []
         },
         {
@@ -371,8 +786,36 @@
             "dyn": 0,
             "extendNew": 10,
             "extendRev": 50,
-            "media_files": [],
+            "media_files": [
+                "latex-14f40715ae200057575863756e11d1ad7c9b2fe7.png"
+            ],
             "name": "III Nichtlineare Optik",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Das ist eine Testfrage",
+                        "[latex]$A$ntwort[/latex]<br>"
+                    ],
+                    "flags": 0,
+                    "guid": "QY-}8jgz=E",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "ce238431-0297-11eb-9560-4ccc6a4d8422",
+            "deck_config_uuid": "4de1d3e1-a0f4-11ea-aa1d-b4d5bdceb84f",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [],
+            "name": "IV Photoelektronik",
             "notes": []
         },
         {
@@ -835,434 +1278,6 @@
                     "tags": []
                 }
             ]
-        },
-        {
-            "__type__": "Deck",
-            "children": [
-                {
-                    "__type__": "Deck",
-                    "children": [],
-                    "crowdanki_uuid": "ce242107-0297-11eb-abc7-4ccc6a4d8422",
-                    "deck_config_uuid": "4de1d3e1-a0f4-11ea-aa1d-b4d5bdceb84f",
-                    "desc": "",
-                    "dyn": 0,
-                    "extendNew": 10,
-                    "extendRev": 50,
-                    "media_files": [
-                        "latex-173ccb50c9bad7983a239817997834535f39d083.png",
-                        "latex-18f5891f76ba8d570cf2d893c7256e5ee9741fc6.png",
-                        "latex-4284c547d9c237e756d81c60b296debffe583f97.png",
-                        "latex-4d01eb1543f04fc9d1e4e9dea2b5740ec74d551f.png",
-                        "latex-4e55f2a5c204cd01ea2af976706fdba1e78c3fd9.png",
-                        "latex-50cd53b4a39272afe3f4c6859e1f244b07c2ed3e.png",
-                        "latex-57904a1a2cbdc2ac5020e79429b98e51083f4157.png",
-                        "latex-652e4230cb40a2899490a4a9f0aa05d8436a5cfb.png",
-                        "latex-6e2f1c2d3d7b65b13062486418ab5bc76c1ecef8.png",
-                        "latex-7df771e188d7f50fd74458260a111abe706a3be5.png",
-                        "latex-903fb98bc092df067a47df9fa4720ac25dd105b0.png",
-                        "latex-9b8b7a189a3c75b3a4f1138894314d58348902c4.png",
-                        "latex-9f8db01827412799c47143aef66b38cb00a8da4c.png",
-                        "latex-a9de25b65b3e09e61bb6020f98518c4f655a8105.png",
-                        "latex-b950da64b12cc96e03b96bda1ade5d59c4b2b249.png",
-                        "latex-d58433dea8c441f9212657eb646c052ce492ee2f.png",
-                        "latex-fb363eca1567d0e766396ca5665361baffb75fa2.png",
-                        "paste-120e4854e09d869219e0b979d772820c2fe4434c.png",
-                        "paste-18959faf842663405b980b94ed40547b6d2eff22.png",
-                        "paste-2bbfd9ae60bb0afdfd4b2841e00a421df7efe9b9.jpg",
-                        "paste-2ee89bc860368e60d6992e7e90320e660470aa34.png",
-                        "paste-f7c418384e0bcf53a0f77bd3917125c1e67d11eb.jpg"
-                    ],
-                    "name": "2 Laser-Beispiele",
-                    "notes": [
-                        {
-                            "__type__": "Note",
-                            "data": "",
-                            "fields": [
-                                "[latex]Nennen Sie drei klassische Arten von Lasern.[/latex]<br>",
-                                "[latex]\\begin{itemize}<div>&nbsp; \\item Optisch gepumpte Festkörperlaser</div><div>&nbsp; \\item Gaslaser</div><div>&nbsp; \\item Halbleiter-Diodenlaser<br><div>\\end{itemize}[/latex]</div></div>"
-                            ],
-                            "flags": 0,
-                            "guid": "NeXObfxgT~",
-                            "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "data": "",
-                            "fields": [
-                                "[latex]Was sind Vor- und Nachteile von Festkörperlasern?[/latex]",
-                                "[latex]Vorteile:\\begin{itemize}<div>&nbsp; \\item Technisch gut handhabbar</div><div>&nbsp; \\item effiziente Kühlung</div><div>\\end{itemize}</div><div>Nachteile: Isolator:\\begin{itemize}</div><div>&nbsp; \\item kein elektrisches Pumpen möglich</div><div>&nbsp; \\item Energiezufuhr nur optisch</div><div>\\begin{itemize}</div><div>effiziente Pumplichtquelle?[/latex]</div>"
-                            ],
-                            "flags": 0,
-                            "guid": "h>f70LAH<,",
-                            "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "data": "",
-                            "fields": [
-                                "[latex]Was sind allgemeine Eigenschaften eines Festkörperlasers?[/latex]",
-                                "[latex]\\begin{itemize}<div>&nbsp; \\item Dielektrischer Festkörper ist als Matrix aufgebaut</div><div>&nbsp; \\item Dotiert mit Ionen in Konzentration $10^{18}-10^{20}\\,$cm$^{-3}$</div><div>&nbsp; \\item Ionen der Übergangsmetalle und seltenen Erden</div><div>&nbsp; \\item Breitgefächertes Spektrum an Charakteristiken und Anwendungen</div><div>\\end{itemize}[/latex]</div>"
-                            ],
-                            "flags": 0,
-                            "guid": "tp4JCwj&q-",
-                            "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "data": "",
-                            "fields": [
-                                "[latex]Was ist das klassische Beispiel für Festkörperlaser? Nennen Sie die Eigenschaften.[/latex]",
-                                "<div>\n<div>\n<div><img src=\"paste-18959faf842663405b980b94ed40547b6d2eff22.png\"></div>\n</div></div>"
-                            ],
-                            "flags": 0,
-                            "guid": "PG)WU8pRuw",
-                            "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "data": "",
-                            "fields": [
-                                "[latex]Was ist ein Thermschema?[/latex]<br>",
-                                "[latex]Beschreibt, welche Energieniveaus in einem Molekül vorhanden sind.\\\\<div>Beispiel Drei-Niveau-Laser:\\begin{itemize}</div><div>&nbsp; \\item Es existiert ein Grund-Niveau</div><div>&nbsp; \\item Elektronen werden auf höheres Niveau gepumpt</div><div>&nbsp; \\item Elektronen relaxieren nichtemittierend auf niedrigeres, oberes Energie-Niveau</div><div>&nbsp; \\item Von dort gehen sie (stimuliert oder spontan) zurück auf das Grund-Niveau.[/latex]</div><div><img src=\"paste-2bbfd9ae60bb0afdfd4b2841e00a421df7efe9b9.jpg\"><br></div>"
-                            ],
-                            "flags": 0,
-                            "guid": "N^d`hljY|$",
-                            "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "data": "",
-                            "fields": [
-                                "[latex]Nennen Sie zwei moderne Beispiele für Festkörperlaser und deren Eigenschaften.[/latex]<br>",
-                                "<img src=\"paste-f7c418384e0bcf53a0f77bd3917125c1e67d11eb.jpg\"><div><div>\n<div>\n<div><img src=\"paste-2ee89bc860368e60d6992e7e90320e660470aa34.png\"></div>\n</div></div></div>"
-                            ],
-                            "flags": 0,
-                            "guid": "O!([/7hd/G",
-                            "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "data": "",
-                            "fields": [
-                                "[latex]Worauf muss bei der Montage eines Scheibenlasers geachtet werden?[/latex]<br>",
-                                "[latex]Er muss sehr rein sein und auf eine Wärmesenke geklebt werden, sonst kommt es zu katastrophalen Wärmeentwicklungen.\\\\<div>Er selbst ist auf einer Seite schon zu $100\\,$\\% verspiegelt und fungiert gleichzeitg als Resonator. [/latex]</div>"
-                            ],
-                            "flags": 0,
-                            "guid": "j}a/,Gr&RH",
-                            "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "data": "",
-                            "fields": [
-                                "[latex]Was bedeutet homogen und inhomogen im Bezug auf die Dotierungsverteilung eines Lasers?[/latex]",
-                                "[latex]\\begin{itemize}<div>&nbsp; \\item Homogene Verteilung\\\\</div><div>Atome sind immer auf gleichen Gitterplätzen. Jedes Atom sieht genau die gleiche Umgebung, wie die anderen Atome.</div><div>&nbsp; \\item Inhomogene Verteilung\\\\</div><div>Z.B. Gläser. Da sie keine Kristalle und damit weniger geordnet sind, sieht jedes Atom eine andere Umgebung als die anderen. Deswegen haben die Atome leicht unterschiedliche Energieniveaus. (Energetische Lage der Energieniveaus der einzelnen Atome ist nicht überall gleich)<br><div>\\end{itemize}[/latex]</div></div>"
-                            ],
-                            "flags": 0,
-                            "guid": ")x$X+V}})",
-                            "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "data": "",
-                            "fields": [
-                                "[latex]Warum sind manche Laser schmal- und ander breitbandig?[/latex]",
-                                "[latex]Abhängig von der Wechselwirkung im Kristall, werden die Atome mehr oder weniger vom Kristall gestört (z.B. durch Gitterschwingungen).\\\\Generell gilt, je mehr sich ein Atom ausdehnt, desto mehr wecheslwirkt es mit der Umgebung.\\\\Mehr Störungen führen zu einem breitbandigeren Laser.\\\\<div><br></div><div>Beispielhaft hat Rubin wenig Wechselwirkung mit dem Gitter. Titan-Saphir hat startk mit dem Gitter gekoppelte Atome.[/latex]</div>"
-                            ],
-                            "flags": 0,
-                            "guid": "rrcR:ux*%P",
-                            "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "data": "",
-                            "fields": [
-                                "[latex]Vergleichen Sie die Größen von verschiedenen Festkörperlasern.[/latex]",
-                                "<div>\n<div>\n<div><img src=\"paste-120e4854e09d869219e0b979d772820c2fe4434c.png\"></div>\n</div></div>"
-                            ],
-                            "flags": 0,
-                            "guid": "xwnu=<v&Y7",
-                            "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
-                            "tags": []
-                        }
-                    ]
-                },
-                {
-                    "__type__": "Deck",
-                    "children": [],
-                    "crowdanki_uuid": "ce244715-0297-11eb-af4a-4ccc6a4d8422",
-                    "deck_config_uuid": "4de1d3e1-a0f4-11ea-aa1d-b4d5bdceb84f",
-                    "desc": "",
-                    "dyn": 0,
-                    "extendNew": 10,
-                    "extendRev": 50,
-                    "media_files": [
-                        "latex-034d3dd6f1142045805927b1eacfcff207df8c8f.png",
-                        "latex-0b9227abd577b964fb1d94bc73281612d2ff35df.png",
-                        "latex-22844ff2ad3f4bc3f8c5ca01ae45c54bd77db10e.png",
-                        "latex-30cc1d6e0591892a1dea32fdb6a8421639721171.png",
-                        "latex-3ff90ef162ee412942119358157c31e237054b8b.png",
-                        "latex-42f65f259a60e1acac03ba0def7a05b3116872ea.png",
-                        "latex-45d64ccce38f172d63095e41ffbdf1cdead6ca65.png",
-                        "latex-489b2ef5f0c654bcbff2bc3ab496547851f0c2f0.png",
-                        "latex-577e9a21dc6d03c9fe5d4d783fde7ba12e35cf8b.png",
-                        "latex-639b939a0abae4bb969d582af60b7201d381e509.png",
-                        "latex-73de4739f5ecc6f33fcc1e98d33a2ce1806f9a77.png",
-                        "latex-741f51103765a75556680d3a477780a5af00e6ce.png",
-                        "latex-7c17e7648776c7e335d8058f086aee9404744d40.png",
-                        "latex-8f245ba5592b33b63d40c804d739844adedcccd7.png",
-                        "latex-926f27afd2ee4c1780bb2fd52e43543fb358586b.png",
-                        "latex-9271ca626f5e0ba30565302931b5a0991345ed00.png",
-                        "latex-98aeb1e855a1450e1927b1669f8c4fb2afa71f92.png",
-                        "latex-9f17c478378486acb2afb9769a8d1dc73159b1c7.png",
-                        "latex-a3b2dffc98230b6068f99d3f93d9a17985e44f80.png",
-                        "latex-a7a60b04bd01289da18ff6231d6c3fbc19080008.png",
-                        "latex-ae58de81a39796c01e4845c896316f4dfa3126c7.png",
-                        "latex-b39af955602f897026db9fed69adcb043ba9bd60.png",
-                        "latex-c168679dee2f65e087071e2d86a3cdbce730fea5.png",
-                        "latex-c48edd7551d96592541b810a208203dd4aed0476.png",
-                        "latex-c6bc2362a063bcb471e746256607f0ceee7a36f9.png",
-                        "latex-cf0f28ca2284fc563e269ce630d16465eaa4fb1b.png",
-                        "latex-cfb4ad47b94e54be14e021d85de11399d1904281.png",
-                        "latex-d483d85b6d3ac60d1e7a7086b324046c630d46ba.png",
-                        "latex-dd656bcd4267f09b42c5b025b6cb3abb9bb97242.png",
-                        "latex-f16595cf57b25ad7b0dd87aac84657dc5fcdbcea.png",
-                        "latex-f3e8600129c574f3aeaa135c55fad630d62dd433.png",
-                        "latex-fccfda7741be6e09402694fce2254c2973c159f6.png",
-                        "latex-ff4033f882215b0a1c7f1378b7e9c5a580c342fe.png",
-                        "paste-1872c60a4eeca2cdc998358b8248408f3ad16818.jpg",
-                        "paste-5b7244be9384de3962a4208a3fe17e2b628639b9.jpg",
-                        "paste-fb4aec19b8db1698ea2438f4d4d78ff7437c015d.jpg",
-                        "paste-fd517195cba640da28856b6e4f89c9278a831652.jpg"
-                    ],
-                    "mid": 1590151653781,
-                    "name": "1 Lasertätigkeit: Verstärkung und Schwellenbedingung",
-                    "notes": [
-                        {
-                            "__type__": "Note",
-                            "data": "",
-                            "fields": [
-                                "[latex]Wozu dient das Modell des Zweiniveaulasers? Warum funktioniert er nicht in der Realität?[/latex]<br>",
-                                "[latex]Zur verständlicheren Beschreibung des Photonenflusses zwischen angeregtem und ruhendem Niveau.\\\\<div>Man braucht für die Funktion eines Lasers am besten ein vollständig entleertes unterstes Niveau. In der Realität stellt sich bei einem Zweiniveaulaser quantenmechanisch aber eine $50/50$ Verteilung ein.[/latex]</div>"
-                            ],
-                            "flags": 0,
-                            "guid": "O.ai0n]xX>",
-                            "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "data": "",
-                            "fields": [
-                                "[latex]Wie ist das Modell eines Zweiniveaulasers aufgebaut?[/latex]",
-                                "[latex]\\begin{itemize}<div>&nbsp; \\item Eine Ansammlung aus Zweiniveau-Systemen (Zwei Energielevel $E_1$ und $E_2$)</div><div>&nbsp; \\item Übergangsenergie $h\\boldsymbol v_{21}</div><div>&nbsp; \\item schmalbandiges Strahlungsfeld mit Frequenz $\\boldsymbol v\\approx\\boldsymbol v_{21}$</div><div>\\end{itemize}[/latex]</div><div><img src=\"paste-5b7244be9384de3962a4208a3fe17e2b628639b9.jpg\"><br></div>"
-                            ],
-                            "flags": 0,
-                            "guid": "iW)^Q$RAP^",
-                            "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "data": "",
-                            "fields": [
-                                "[latex]Nennen Sie die Ratengleichung für die Populationsdichte eines Zweiniveau-Lasers. Bennen Sie die Größen.[/latex]<br>",
-                                "[latex]<br><div>$\\dot N_1 = -\\Gamma_1N_1+A_{21}N_2+\\sigma\\Phi(N_2-N_1)$\\\\</div><div>$\\dot N_2 = -\\Gamma_2N_2-A_{21}N_2-\\sigma\\Phi(N_2-N_1)$\\\\</div><div><br></div><div>$N_1, N_2$\\hfill Raumdichte der Atome in Zustand $E_1, E_2$\\\\</div><div>$A_{21}$\\hfill Spontane Emission von $E_2$ nach $E_1$\\\\</div><div>$\\Phi$\\hfill Photonenfluss\\\\</div><div>$\\Gamma$\\hfill Elektronendissipation (vernachlässigbar)\\\\</div><div>$\\sigma$\\hfill Wirkungsquerschnitt[/latex]</div>"
-                            ],
-                            "flags": 0,
-                            "guid": "jOF`GE`f#E",
-                            "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "data": "",
-                            "fields": [
-                                "[latex]Was beschreibt der Wirkungsquerschnitt?[/latex]<br>",
-                                "[latex]Der Wirkungsquerschnitt beschreibt mit seiner Abhängigkeit vom Einsteinschen $B$-Koeffizienten die Absorption und stimulierte Emission.\\\\<div><br><div>$\\sigma(\\boldsymbol v)=\\dfrac{h\\boldsymbol v}{c}BS(\\boldsymbol v)$\\\\</div><div><br></div><div>Wobei $S(\\boldsymbol v)$ das normierte Linienprofil (z.B. das Lorentz-Profil) ist, mit\\\\</div><div><br></div><div>$\\int^\\infty_0S(\\boldsymbol v)d\\boldsymbol v = 1$[/latex]</div></div>"
-                            ],
-                            "flags": 0,
-                            "guid": "ncH=-x=:|8",
-                            "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "data": "",
-                            "fields": [
-                                "[latex]Wie ist der Zusammenhang zwischen Absorption und stimulierter Emission?[/latex]<br>",
-                                "[latex]Prinzipiell der gleiche Prozess. Eigenschaften können beide von Einsteinschen $B$-Koeffizienten charakterisiert werden.[/latex]"
-                            ],
-                            "flags": 0,
-                            "guid": "f]I7~q$Pht",
-                            "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "data": "",
-                            "fields": [
-                                "[latex]Wie ist der zusammenhang zwischen spontaner und stimulierter Emission (bzw. zwischen spontanter Emission und Absorption)? Was ist die besonderheit?[/latex]",
-                                "[latex]$A_{21}=B\\dfrac{8\\pi h\\boldsymbol v^3}{c^3}$\\\\<div><br></div><div>Besonders ist, dass keine Abhängigkeit zur Temperatur besteht und damit auch für thermisches Ungleichgewicht (wie innerhalb eines Lasers) gültig ist.\\\\</div><div><br></div><div>Außerdem hängt die spontane Emission von der dritten Potenz der Frequenz ab. Das ist der Grund, weshalb Laser bei hohen Frequenzen (wie Ultraviolett) so schwer herzustellen sind.[/latex]</div>"
-                            ],
-                            "flags": 0,
-                            "guid": "rC:P&+`VL{",
-                            "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "data": "",
-                            "fields": [
-                                "[latex]Ab wann tritt Verstärkung in einem Laser auf?[/latex]",
-                                "[latex]Sobald mehr Elektronen im oberen Niveau als im unteren sind.[/latex]"
-                            ],
-                            "flags": 0,
-                            "guid": "nrLTk/)[Dp",
-                            "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "data": "",
-                            "fields": [
-                                "[latex]Wie ist der \\textit{gain coefficient} definiert und in welcher Gleichung kommt er zum Tragen?[/latex]",
-                                "[latex]$g(\\nu)=\\dfrac{lambda^2}{8\\pi}A(N_2-N_1)S(\\nu)$\\\\<div><br></div><div>Er gibt Auskunft darüber, wie gut ein Lasermedium als Verstärkungsmedium dient.\\\\</div><div>Zum Tragen kommt er in der Kontinuitätsgleichung für die Intensiät\\\\</div><div><br></div><div>$\\left(\\dfrac{1}{c}\\dfrac{\\partial}{\\partial t}+\\dfrac{\\partial}{\\partial z}\\right)I_\\nu=g(\\nu)I_\\nu$\\\\</div><div><br></div><div>oder im stationären Zustand\\\\</div><br><div>$\\dfrac{\\text{d}I_\\nu}{\\text{d}z}=g(\\nu)I_\\nu$\\\\[/latex]</div>"
-                            ],
-                            "flags": 0,
-                            "guid": "dMeLGb^-C,",
-                            "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "data": "",
-                            "fields": [
-                                "[latex]Wie ist der Zusammenhang zwischen Besetzungsinversion und Intensität?[/latex]<br>",
-                                "[latex]Die Intensität hängt vom \\textit{gain coefficient} nach der Formel\\\\<div><br><div>$I_\\nu(z) = I_\\nu(0)e^{g(\\nu)z}$\\\\</div><div><br></div><div>ab.\\\\</div><div>Das Vorzeichen des \\textit{gain coefficents} hängt nur von dem Vorzeichen der Besetzungsinversion ab.\\\\</div><div>Das heißt für eine positive Besetzungsinversion (mehr in $N_2$ als in $N_1$), findet mit Lauflänge des Lasermaterials eine exponentielle Verstärkung statt. Für eine negative Besetzungsinversion, eine exponentielle Absorption.[/latex]</div></div>"
-                            ],
-                            "flags": 0,
-                            "guid": "-)PJ@S-3A",
-                            "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "data": "",
-                            "fields": [
-                                "[latex]Was ist ein Fabry-P\\'erot-Resonator? Nennen Sie ein Beispiel.[/latex]",
-                                "[latex]Ein offener optischer Resonator, entwickelt aus dem Fabry-P\\'erot-Interferometer.\\\\<div>Er besteht aus zwei identischen, planparallelen koazialen Spiegeln, d.h. es handelt sich um einen biplanaren Spiegelresonator.\\\\</div><div><br></div><div>Die ersten Laserresonatoren wie der \\textbf{Rubinlaser} waren Fabry-P\\'erot-Resonatoren.[/latex]</div>"
-                            ],
-                            "flags": 0,
-                            "guid": "q[XcSqX4x[",
-                            "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "data": "",
-                            "fields": [
-                                "[latex]Wie ist ein Fabry-P\\'erot-Resonator aufgebaut? Benennen Sie charakteristische Größen und deren Zusammenhang.[/latex]",
-                                "[latex]<div>Biplanarer Resonator.</div><div>\\begin{itemize}<div>&nbsp; \\item Reflexions-Koeffizienten $r$</div><div>&nbsp; \\item Transmissions-Koeffizienten $t$</div><div>&nbsp; \\item Verlust-Koeffizienten (Streuung + Absorption) $s$</div><div>&nbsp; \\item Zusammenhang: $r_i + t_i + s_i=1$</div><div>\\end{itemize}[/latex]</div><div><img src=\"paste-fb4aec19b8db1698ea2438f4d4d78ff7437c015d.jpg\"><br></div></div>"
-                            ],
-                            "flags": 0,
-                            "guid": "t3F+#E_*?R",
-                            "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "data": "",
-                            "fields": [
-                                "[latex]Was ist die Voraussetzung für die Funktion eines Biplanaren Resonators? Was sind Randbedingungen?[/latex]<br>",
-                                "[latex]Voraussetzungen:\\begin{itemize}<div>&nbsp; \\item Zufällige spontane Emission in $z$-Richtung</div><div>&nbsp; \\item Stationäre Bedingungen in Besetzungsinversion (cw-Betrieb (continuous wave)</div><div>&nbsp; \\item Geringe Lichtintensizäten ($N_2-N_1\\approx const.$)</div><div>\\end{itemize}<br><div>Randbedingungen:\\begin{itemize}</div><div>&nbsp; \\item ${I_\\nu}^{(-)}(L)=r_2{I_\\nu}^{(+)}(L)$</div><div>&nbsp; \\item ${I_\\nu}^{(+)}(0)=r_1{I_\\nu}^{(-)}(0)$</div><div>\\end{itemize}</div><div>[/latex]</div><div><div><img src=\"paste-fb4aec19b8db1698ea2438f4d4d78ff7437c015d.jpg\"></div></div></div>"
-                            ],
-                            "flags": 0,
-                            "guid": "Er_rOTw7aM",
-                            "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "data": "",
-                            "fields": [
-                                "[latex]Beschreiben Sie die Schwellenverstärkung.[/latex]<br>",
-                                "[latex]Unter der Voraussetzung, dass der Laser verstärken soll, darf die Intensität bei einem Durchlauf $z=0$ - $z=L$ - $z=0$ zumindest nicht abnhemen.\\\\<div>Das heißt, die Intensität soll nach doppeltem Durchlauf und doppelter Reflektion immer noch dieselbe sein:\\\\</div><div><br></div><div>${I_\\nu}^{(+)}(0) \\overset{!}{=} \\left( r_1r_2 e^{2g(\\nu)L}\\right){I_\\nu}^{(+)}(0)$\\\\</div><div><br></div><div>Dies bedeutet für den \\textit{gain coefficient}, dass es eine \\textbf{Schwellverstärkung} $g_t$ gibt, nach\\\\</div><div><br></div><div>$g_t=-\\dfrac{1}{2L}\\text{ln}(r_1r_2)$.\\\\</div><div><br></div><div>Beachte: Im stationären Laserbetrieb entspricht die Verstärkung \\textbf{exakt} $g_t$![/latex]<br></div>"
-                            ],
-                            "flags": 0,
-                            "guid": "K[D/[~Fdyh",
-                            "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "data": "",
-                            "fields": [
-                                "[latex]Was ist im Bezug auf die Niveau-Besetzung eines Lasers gewünscht? Was ist das Problem mit Zwei-Niveau-Lasern? Welche Ansätze lösen diese Problem?[/latex]<br>",
-                                "[latex]Um eine Verstärkung (einen positiven \\textit{gain coefficient}) zu erzielen, ist eine Raumdichtenverteilung der Atome $N_2 &gt; N_1$ notwendig. Im besten Fall ist das untere Niveau sogar vollständig entleert.\\\\<div><br></div><div>Bei einem Zwei-Niveau-Laser stellt sich aber eine quantenmechanische Raumdichtenverteilung von $50/50$ ein.\\\\</div><div><br></div><div>Lösung: Drei- und Vier-Niveau-Laser.[/latex]</div>"
-                            ],
-                            "flags": 0,
-                            "guid": "gH-vXw`8w!",
-                            "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "data": "",
-                            "fields": [
-                                "[latex]Beschreiben sie qualitativ den Niveau-Übergang eines Drei-Niveau-Lasers. Nennen Sie ein Problem und Beispiele.[/latex]",
-                                "<img src=\"paste-fd517195cba640da28856b6e4f89c9278a831652.jpg\">"
-                            ],
-                            "flags": 0,
-                            "guid": "Gz2N+Tc6tz",
-                            "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "data": "",
-                            "fields": [
-                                "[latex]Beschreiben sie qualitativ den Niveau-Übergang eines Vier-Niveau-Lasers. Nennen Sie ein Problem und Beispiele.[/latex]",
-                                "<img src=\"paste-1872c60a4eeca2cdc998358b8248408f3ad16818.jpg\"><div><br></div><div>[latex]\\begin{itemize}</div><div>&nbsp; \\item HeNe-Laser (1. cw-Laser (1960!), $\\lambda_{21} = 632.8\\,$nm $, 1.15\\,\\mu$m)</div><div>&nbsp; \\item Nd$^{3+}$:YAG (hohe Leistungen, $\\lambda_{21} = 1064\\,$nm)</div><div>&nbsp; \\item Farbstofflaser (vibronische Zustänre, abstimmbar im VIS)</div><div>&nbsp; \\item Halbleiterlaser (höhere Bandzustände, elektrisch pumpen!)</div><div>\\end{itemize}[/latex]<br></div>"
-                            ],
-                            "flags": 0,
-                            "guid": "nbx(O7__f2",
-                            "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "data": "",
-                            "fields": [
-                                "[latex]Wie hoch ist $kT$ bei Raumtemperatur?[/latex]",
-                                "[latex]$25\\,$meV[/latex]"
-                            ],
-                            "flags": 0,
-                            "guid": "qAqYcw>?(7",
-                            "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                            "tags": []
-                        }
-                    ]
-                }
-            ],
-            "crowdanki_uuid": "ce242103-0297-11eb-b692-4ccc6a4d8422",
-            "deck_config_uuid": "4de1d3e1-a0f4-11ea-aa1d-b4d5bdceb84f",
-            "desc": "",
-            "dyn": 0,
-            "extendNew": 10,
-            "extendRev": 50,
-            "media_files": [],
-            "name": "II Laserphysik",
-            "notes": []
         }
     ],
     "crowdanki_uuid": "c19b747c-9c1f-11ea-9ebd-b4d5bdceb84c",
@@ -1450,7 +1465,7 @@
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
-            "name": "Einfach",
+            "name": "Einfach-22975",
             "req": [
                 [
                     0,
