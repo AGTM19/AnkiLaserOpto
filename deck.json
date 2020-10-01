@@ -4,19 +4,644 @@
         {
             "__type__": "Deck",
             "children": [],
-            "crowdanki_uuid": "ce23ab5c-0297-11eb-abe0-4ccc6a4d8422",
+            "crowdanki_uuid": "ce238435-0297-11eb-ab63-4ccc6a4d8422",
+            "deck_config_uuid": "4de1d3e1-a0f4-11ea-aa1d-b4d5bdceb84f",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [
+                "lasertab.PNG",
+                "latex-02ac3750a2c2bb3faaa81af39fd55a51d3cbbc2b.png",
+                "latex-0f2e9b69f8b9859d75ab8655e76e5b52498466b7.png",
+                "latex-100dadb526e4c7437d0f554061716c4bd1d22544.png",
+                "latex-10308648c43a6ba6a169bf049c50a795f2726765.png",
+                "latex-107d0ebd9c8315cfa1bd40d73818a4f4dedbc824.png",
+                "latex-142c0f0bbeac06f2217d2766111599f26665805e.png",
+                "latex-147640774a2030c8084f4f2edaadb4e40a84e843.png",
+                "latex-15c932dcb8b19ead6dac3c44fd35d6af64177405.png",
+                "latex-2eea7bd664187eee5d82471bd6748fd50b008479.png",
+                "latex-30e850ae9e96bbf08df748aa2ede5eb2736f999b.png",
+                "latex-33826f5562961a3993bd1f8813c9d44a71ace693.png",
+                "latex-339809654bafe218758105fc8e373167549b47b7.png",
+                "latex-3d7ea566e823ebccb0a6d77287955f0b50c7f011.png",
+                "latex-3d8f814a58cdce43e97e393d4bf9004aa7f556f0.png",
+                "latex-417b4cd9435cb65dd50ee8963ed18f65d745e405.png",
+                "latex-481d6aa668a4253eea47139df18cc85b81c1caf0.png",
+                "latex-5505fa99ea7752ce5c0efa36cac87eeeeacd80da.png",
+                "latex-56da98df8b4bc1100de371e464d5db1290ffb6ab.png",
+                "latex-7b72f7c4a9f535bfb77ee741cf4e55df47303c31.png",
+                "latex-8568a84b19a3126b361da1322991f683ae692a53.png",
+                "latex-89c8bfe021915aa3d0f6bd4a50d0b74e888ca133.png",
+                "latex-89f8414b741c178371918e25688e194b818e7555.png",
+                "latex-94f5ccef15f747c86831cade35a3e7bc8ad3ecda.png",
+                "latex-9fd92d6cf82e843a00af40e56a1d7232ef79d43e.png",
+                "latex-a1a922267f33503596bdbff2ca055db8a8a62345.png",
+                "latex-a90feb438139656776e94b8dc22b6f8a781332a1.png",
+                "latex-a983749a41ae60fa5a5ffe3088892d5c6b4ccdfe.png",
+                "latex-b06422d7639db76b35df3dfa32c222591402cfe2.png",
+                "latex-b1d77ba559907301dafe9d78c476e5d033215449.png",
+                "latex-b480051bde8de62b44e5d15d2853a409470554a6.png",
+                "latex-b8a970357692e13cae6c12f7025b950bec4b9bd9.png",
+                "latex-b8c35d4a612844d0e347c91427aa3e2ee5ec8a5f.png",
+                "latex-ba362a1cbdfac587468f8f027c0834367eaa3c64.png",
+                "latex-bdba8746daba2ece585a6e3a69e9c562f836fa8b.png",
+                "latex-c4e3df08f1e1d3b56465d7519863deb9464b437f.png",
+                "latex-cb78f1efd90df80b1d5f8501192cef3c199c70a4.png",
+                "latex-cf1bd9b931991e438d35f005f647133ba98320f1.png",
+                "latex-d6af9df722cd69300d2bbd5ec5a30d498f4eeae1.png",
+                "latex-e4be198b87f34c58c65801eec64919026c125601.png",
+                "latex-e70c6e0d22023e207e6a5da7d18984f4ac3fd53e.png",
+                "latex-fc2ac0e7f8263376dde03e0754bfef7011717b6e.png"
+            ],
+            "mid": 1591716652010,
+            "name": "0 Motivation/Einführung",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Nennen Sie Quellen für natürliche Laser.[/latex]<br>",
+                        "[latex]Es wurden bisher keine natürlichen Laser gefunden. Es wird gesucht, aber wahrscheinlich nicht gefunden...[/latex]"
+                    ],
+                    "flags": 0,
+                    "guid": "JhAG9Uz$s:",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Was ist der Vorteil von Lasermaterialbearbeitung, im Vergleich zu gewöhnlichen Schweißern oder Bohrern?[/latex]",
+                        "[latex]\\begin{itemize}<div>&nbsp; \\item Makroskopisch betrachtet nahezu beliebig präzise</div><div>&nbsp; \\item Wird nicht stumpf<br><div>\\end{itemize}[/latex]</div></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "I0S$k#0DBb",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Was macht das Licht eines Lasers aus?[/latex]",
+                        "[latex]Der Laserstrahl ist eine kohärente Lichtquelle.[/latex]"
+                    ],
+                    "flags": 0,
+                    "guid": "F3#<:S4m`q",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Nennen Sie Anwendungsbeispiele für Laser.[/latex]",
+                        "[latex]\\begin{itemize}<div>&nbsp; \\item Lasersintern oder Laserschmelzen</div><div>&nbsp; \\item Satellitenkommunikation</div><div>&nbsp; \\item Laserschweißen</div><div>&nbsp; \\item Laserinduzierte Floureszent\\\\Material absorbiert Laserwellenlänge und strahlt charakteristisch bei anderen Wellenlängen ab. \\#Ramanspektroskopie<br><div>\\end{itemize}[/latex]</div></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "xVuoh{.>-+",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Wie hängt der Brechungsindex $n$ eines Materials und die Lichtgeschwindigkeit $c_M$ dieses Materials zusammen?[/latex]",
+                        "[latex]$c_{M}=\\dfrac{c_0}{n}$[/latex]"
+                    ],
+                    "flags": 0,
+                    "guid": "tfGWv~{;|$",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Was ist der Brechungsindex von Glasfaser? Was der des Vakuums?[/latex]",
+                        "[latex]\\begin{itemize}<div>&nbsp; \\item Glasfaser: $1.4$</div><div>&nbsp; \\item Vakuum: $1.0$</div><div>\\end{itemize}[/latex]</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "E+_uE5Vkl}",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Definieren Sie Optoelektronik.[/latex]",
+                        "[latex]Erzeugung, Modulation von Licht durch Spannung/Strom und Detektion von Licht, das Spannung/Strom erzeugt.\\\\Kombination von optischen (Lichtquellen, Sensoren) mit elektronischen Komponenten (Schaltungen).[/latex]"
+                    ],
+                    "flags": 0,
+                    "guid": "AO{@j@5Q05",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Was sind Eigenschaften optoelektronischer Komponenten?[/latex]",
+                        "[latex]\\begin{itemize}<div>&nbsp; \\item Klein</div><div>&nbsp; \\item Kompakt</div><div>&nbsp; \\item Niedriger Leistungsbedarf</div><div>\\end{itemize}[/latex]</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "oBA&#8|;/]",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Wofür steht das Wort Laser?[/latex]<br>",
+                        "[latex]LASER ist ein Kunstwort und steht für \\textbf Light \\textbf&nbsp;Amplification by \\textbf&nbsp;Stimulated \\textbf&nbsp;Emission of \\textbf&nbsp;Radiation.[/latex]"
+                    ],
+                    "flags": 0,
+                    "guid": "ReW*ednQ|X",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Aus welchen Teilen besteht ein Laser?[/latex]<br>",
+                        "[latex]\\begin{enumerate}<div>&nbsp; \\item Aktives Medium</div><div>&nbsp; \\item Resonator</div><div>&nbsp; \\item Pumpquelle<br><div>\\end{enumerate}[/latex]</div></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "O>xT^E8N]5",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Was ist ein Resonator?[/latex]",
+                        "[latex]Einer der drei Bauteile eines Lasers. Besteht basicly aus zwei Spiegeln, bei dem einer eine Reflekivität von $100\\,$\\% und der ander eine kleiner $100\\,$\\% hat.[/latex]"
+                    ],
+                    "flags": 0,
+                    "guid": "G5Wg1a#V[~",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Nennen Sie eine Größenordnung für die Durchlässigkeit des transparenten Teils des Resonators.[/latex]",
+                        "[latex]Unter $2\\,$\\%. Kann durch Beschichtung sehr genau eingestellt werden (auf z.B. $0.77\\,$\\%).[/latex]"
+                    ],
+                    "flags": 0,
+                    "guid": "f)yoP`Tl#H",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Was sind beispielhafte Pumpquellen?[/latex]",
+                        "[latex]\\begin{itemize}<div>&nbsp; \\item Blitzlampe (Historisch)</div><div>&nbsp; \\item Andere Laser</div><div>&nbsp; \\item Elektrischer Strom</div><div>&nbsp; \\item ...</div><div>\\end{itemize}[/latex]</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "C_x:^CGu5x",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Was sind beispielhafte Aktive Medien?[/latex]",
+                        "[latex]\\begin{itemize}<div>&nbsp; \\item Atomare Gase</div><div>&nbsp; \\item Festkörper (Kristalle)</div><div>&nbsp; \\item Farbstofflösungen<br><div>\\end{itemize}[/latex]</div></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "p;=tX5>Gir",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Was ist ein Rubinkristall? Eignet er sich als Laser?[/latex]",
+                        "[latex]Ein Saphirkristall der mit etwa einem Prozen Chromionen dotiert ist.\\\\<div>Er eignet sich zum Lasen, bei sehr niedriger Effizienz von etwa einem Prozent.[/latex]</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "s=pLgVs6=k",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Was ist das Problem mit Lasern für hohe Frequenzbereiche?[/latex]",
+                        "[latex]Laser nutzen gezielt stimulierte Emission aus um Kohärentes Licht zu erzeugen.\\\\Einstein hat hergeleitet, dass das Verhältnis von spontaner zu stimulierte Emission mit der $4.$ Potenz von der Wellenlänge abhängt. So ist die spontane Emissionsrate bei hochfrequentem Licht zu hoch, um einen Lawineneffekt aus stimulierter Emission zu erzeugen.[/latex]"
+                    ],
+                    "flags": 0,
+                    "guid": "I`0UzZsz(^",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Warum finden manche die Maßeinheit der Wellenlänge ungeschickt?[/latex]",
+                        "[latex]Am liebsten will man sich in der Physik in Energie unterhalten und der Kehrwert der Wellenlänge ist proportional zur Energie.\\\\<div>$\\dfrac{1}{\\lambda}\\propto E$[/latex]<br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "n]&w+%SA+v",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Was ist ein wichtiges Maß für die Energie von Licht?[/latex]",
+                        "[latex]Photonenenergie $E_{phot}$.\\\\<div>$E{phot} = hf=hc/\\lambda=hqc$\\\\</div><div>mit\\\\</div><div>$q=1/\\lambda$[/latex]</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "bF77[/TTj9",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Wie berechnet man die Temperatur eines Lasers?[/latex]",
+                        "[latex]Lasertemperatur lässt sich aus der Photonenenergie und der Bolzmankonstante berrechnen.\\\\<div>$k_BT=E_{phot}$[/latex]</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "uO*nq]~7>o",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Nennen Sie Beispiele für den Einsatz von Halbleiterlasern.[/latex]",
+                        "[latex]\\begin{itemize}<div>&nbsp; \\item Glasfaserkommunikation</div><div>&nbsp; \\item Pumpquelle</div>&nbsp; \\item Laserpointer<div><div>\\end{itemize}[/latex]</div></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "p8:t`dyCk_",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "[latex]Nenne 2 Beispiele für Laser.<br>In welchen Bereichen bewegen sich Wellenlänge, Frequenz und Leistung?[/latex]",
+                        "<img src=\"lasertab.PNG\">"
+                    ],
+                    "flags": 0,
+                    "guid": "e;Y{]T:#:e",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "ce235e40-0297-11eb-adc8-4ccc6a4d8422",
+                    "deck_config_uuid": "4de1d3e1-a0f4-11ea-aa1d-b4d5bdceb84f",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 10,
+                    "extendRev": 50,
+                    "media_files": [],
+                    "name": "Materialbearbeitung und Fügung",
+                    "notes": []
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "ce235e48-0297-11eb-9d4f-4ccc6a4d8422",
+                    "deck_config_uuid": "4de1d3e1-a0f4-11ea-aa1d-b4d5bdceb84f",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 10,
+                    "extendRev": 50,
+                    "media_files": [],
+                    "name": "Windkanal",
+                    "notes": []
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "ce235e44-0297-11eb-a4e9-4ccc6a4d8422",
+                    "deck_config_uuid": "4de1d3e1-a0f4-11ea-aa1d-b4d5bdceb84f",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 10,
+                    "extendRev": 50,
+                    "media_files": [],
+                    "name": "LDA",
+                    "notes": []
+                }
+            ],
+            "crowdanki_uuid": "ce235e3c-0297-11eb-89ac-4ccc6a4d8422",
             "deck_config_uuid": "4de1d3e1-a0f4-11ea-aa1d-b4d5bdceb84f",
             "desc": "",
             "dyn": 0,
             "extendNew": 10,
             "extendRev": 50,
             "media_files": [],
-            "name": "III Nichtlineare Optik",
+            "name": "V Anwendung",
+            "notes": []
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "ce238431-0297-11eb-9560-4ccc6a4d8422",
+            "deck_config_uuid": "4de1d3e1-a0f4-11ea-aa1d-b4d5bdceb84f",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [],
+            "name": "IV Photoelektronik",
             "notes": []
         },
         {
             "__type__": "Deck",
             "children": [
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "35d91437-0409-11eb-b96e-4ccc6a4d8422",
+                    "deck_config_uuid": "4de1d3e1-a0f4-11ea-aa1d-b4d5bdceb84f",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 10,
+                    "extendRev": 50,
+                    "media_files": [],
+                    "name": "4 Praxiale Wellengleichung und Moden",
+                    "notes": []
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "35d93b12-0409-11eb-b894-4ccc6a4d8422",
+                    "deck_config_uuid": "4de1d3e1-a0f4-11ea-aa1d-b4d5bdceb84f",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 10,
+                    "extendRev": 50,
+                    "media_files": [
+                        "latex-1ecaa39b4f024f1a70bcee91d23a25ee2d0f66d8.png",
+                        "latex-26b1fd338d6d80241601c15231f7fb8f76f0ad7f.png",
+                        "latex-2717fab94fbcb85991621d652ce0d59d764f4ff5.png",
+                        "latex-2870d1b3915675e213852345e53caa7f380f57e3.png",
+                        "latex-2eeab8e156d80ded46a2b8d467bc7b1a24148564.png",
+                        "latex-38d76cc04ad427827449efdc8631dec63cf9045c.png",
+                        "latex-3dc1be307fd7008820a15670252605db18794e9a.png",
+                        "latex-41e7ae71e3f317504b934a4c595b65b9fb988c21.png",
+                        "latex-4aea9a45b0497a28155457fea4e18f0a08723e09.png",
+                        "latex-53b5aaf144a2aaba9b88b93cec4b91340c516876.png",
+                        "latex-5406e384829247c7684453352a371236177763ac.png",
+                        "latex-5879137e660da97681c009738ca41007a93775d2.png",
+                        "latex-5a50c16d10b3ad09bcf286e3364409410201c9c6.png",
+                        "latex-5e432ebe12f9bdc2ae4d91562be013eaff8a06e7.png",
+                        "latex-7892f9747ebadcb26bfff8da221baafd6163ad16.png",
+                        "latex-7f0afb9143d2076ca78d0e6f868269e352d39503.png",
+                        "latex-86f4a5f4af74adbe1f878151475df1f168fd38b1.png",
+                        "latex-9419a96bc3042f1a05557cc2741096590fc14584.png",
+                        "latex-98a6eecf62abaa2be27027f360c8cae0f768c305.png",
+                        "latex-a6f31512a664d70d0d9908694213321c85226ae7.png",
+                        "latex-aeb766128243c907c310b2712c7a27acafd542b5.png",
+                        "latex-b7ba37877b87fb971939856208dab3085512006d.png",
+                        "latex-c0258b09ba43c7b85db0910b8ea2f73b62ff70a5.png",
+                        "latex-c8c0d3d6cf3b0b8a49960c58a08083b7103ddac0.png",
+                        "latex-d26c9b665a965e7b1c1543a79aae53f81c9915a9.png",
+                        "latex-d9225dc45afe7dac51524f9e2929e1d707a1e609.png",
+                        "latex-e14e49786d90ea24d9c0d7deda8dc2952ac2faa2.png",
+                        "latex-ebc53222f95ea944ff4036fcfa942c51eb1fc118.png",
+                        "latex-f088f6cd695228f427d5546953dd3c63a435c4c4.png",
+                        "latex-fbfac3b78e39df1e714b3d485e4773c017db9bd9.png",
+                        "paste-0f80a4e2cff630e17148e39288c8e7b556bf7604.jpg",
+                        "paste-105d3f896851016fdb5ce0c39ea1d80d847090f0.jpg",
+                        "paste-21196d8e834bd15c4990344f252ff3de370d2cda.jpg",
+                        "paste-a79909fc5d001be2fd0ecf7cd4fbcca61b96d07a.jpg",
+                        "paste-b0a1be0c069eb60f100a5926f0666bb056f3af55.jpg",
+                        "paste-b40a6692b2bd093f61dd50c7e60fd8f2d8dbd389.jpg",
+                        "paste-c8b34a4fa5673b87b0452964f7d802e587296174.jpg",
+                        "paste-ea5955d539c1367dec67236cb4d8a6e20187d5bb.jpg",
+                        "paste-ee41f5a37221069364a8e88db94a97aaf8fa41d1.jpg",
+                        "paste-ef0527674ae9a70f7ef4544380669f233febae9c.jpg",
+                        "paste-f95b17c5046ad33019e891cd64b9414eae5658d8.jpg",
+                        "paste-fd049a632a13a6e90f715d6958cd8431c9f25090.jpg"
+                    ],
+                    "name": "3 Resonatoren",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Welchen Abstand müssen die Resonatoren eines Lasers haben?[/latex]<br>",
+                                "[latex]Ein vielfaches der Wellenlänge: $L = n\\lambda$[/latex]"
+                            ],
+                            "flags": 0,
+                            "guid": "xxmfCl9>4e",
+                            "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Was sind Resonatormoden? Welche Effekte können bei einem Laser mit breitbandigerem Emissionsprofil auftreten?[/latex]",
+                                "[latex]Ist der Abstand der Resonatoren ein Vielfaches einer Wellenlänge des Emissionsbereiches des Lasers, so kommt es zu einer stehenden Welle des Laserlichts; das ist gewünscht.\\\\<div><br></div><div>Wenn das Lorenzprofil des Lasers aber breit genug ist, kann es dazu kommen, dass verschiedene Wellenlängen eine stehende Welle haben, also verschiedene Resonatormodi vorligen.\\\\</div><div>Die Modi haben dann den Abstand\\\\</div><div><br></div><div>$\\Delta\\nu=\\dfrac{c}{2l}$\\\\</div><div><br></div><div>Hat das Lasermedium einen Brechungsindex, so ist dieser zu berücksichtigen\\\\</div><div><br></div><div>$\\Delta\\nu=\\dfrac{c}{2nl}$[/latex]</div><div><img src=\"paste-21196d8e834bd15c4990344f252ff3de370d2cda.jpg\"><br></div>"
+                            ],
+                            "flags": 0,
+                            "guid": "bSi2zhph2/",
+                            "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Welches Problem besteht bei einem planparallelen Resonator? Was ist ein Lösungsansatz?[/latex]<br>",
+                                "[latex]Trotz theoretisch stabilem System:\\begin{itemize}<div>&nbsp; \\item Kein geschlossener Strahlengang</div><div>&nbsp; \\item Geringste Fehljustage führt zu instabilität</div><div>&nbsp; \\item \\#grenzstabil<br><div>\\end{itemize}</div><div>Lösung wären Resonatoren mit sphärischen Spiegeln.[/latex]</div></div><div><img src=\"paste-ea5955d539c1367dec67236cb4d8a6e20187d5bb.jpg\"><br></div>"
+                            ],
+                            "flags": 0,
+                            "guid": "te%?gn4`u=",
+                            "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Wo werden planparallele Resonatoren eingesetzt und warum?[/latex]",
+                                "[latex]Obwohl planparallele Resonatoren keinen geschlossenen Strahlengang haben, prinzipiell also Laserlicht verlieren, werden sie eingesetzt bei\\begin{itemize}<div>&nbsp; \\item Halbleiter-Diodenlasern\\\\</div><div>Das Lasermedium ist Wellenleitend; das Laserlicht kann über die Wände nicht entweichen</div><div>&nbsp; \\item Hochleistungslaser\\\\</div><div>Wenn wegen zu hoher Intensität keine geeigneten Substratmaterialien für Auskoppelspiegel vorhanden sind.</div><div>\\end{itemize}[/latex]</div><div><img src=\"paste-ea5955d539c1367dec67236cb4d8a6e20187d5bb.jpg\"><br></div>"
+                            ],
+                            "flags": 0,
+                            "guid": "P+ql}ch~[3",
+                            "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Was bedeutet \\textit{paraxiale Näherung} und warum ist sie bei Lasern gerechtfertigt?[/latex]<br>",
+                                "[latex]Die paraxiale Optik,&nbsp;auch&nbsp;<span style=\"color: rgb(47, 47, 47);\">gauß'sche Optik</span>&nbsp;oder&nbsp;<span style=\"color: rgb(47, 47, 47);\">Optik erster Ordnung</span>, ist eine Vereinfachung der&nbsp;geometrischen Optik,\nbei der nur Lichtstrahlen betrachtet werden, die mit der&nbsp;optischen Achse\nkleine Winkel bilden und kleine Abstände von ihr haben (sog. paraxiale\nStrahlen).\\\\<div><br></div><div>Bei Lasern ergibt sie Sinn, da große Winkel den Laser ohnehin schell seitlich verlassen.[/latex]<br></div>"
+                            ],
+                            "flags": 0,
+                            "guid": "Pji?/XjTjY",
+                            "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Wonach werden stabile und instabile Resonatoren unterschieden?[/latex]<br>",
+                                "[latex]\\begin{itemize}<div>&nbsp; \\item Stabiler Resonator\\\\</div><div>(und perfekt spiegelnd) Stahl verlässt den Resonator nicht</div><div>&nbsp; \\item Instabiler Resonator\\\\</div><div>Strahl erreicht Spiegelrand und verlässt Resonator</div><div>\\end{itemize}[/latex]<br></div>"
+                            ],
+                            "flags": 0,
+                            "guid": "yXP4(BvJbb",
+                            "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Beschreiben Sie die Größen der Strahlenoptik. Leiten Sie die Gleichung für die freie Propagation des Lichtstrahls im Vakuum her (also keine Reflexion oder Brechung).[/latex]",
+                                "<img src=\"paste-fd049a632a13a6e90f715d6958cd8431c9f25090.jpg\"><div><br></div><div><br><div><img src=\"paste-0f80a4e2cff630e17148e39288c8e7b556bf7604.jpg\"><br></div></div>"
+                            ],
+                            "flags": 0,
+                            "guid": "KqR{,dI9a!",
+                            "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Nennen Sie die Gleichung in Matrixform für die Transmission eines Lichtstrahls durch eine Dünne Linse.[/latex]<br>",
+                                "<img src=\"paste-b0a1be0c069eb60f100a5926f0666bb056f3af55.jpg\">"
+                            ],
+                            "flags": 0,
+                            "guid": "Pln6>cw;W`",
+                            "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Nennen Sie die Gleichung in Matrixform für die Reflexion eines Lichtstrahls an einem gekrümmten Spiegel.[/latex]<br>",
+                                "<img src=\"paste-a79909fc5d001be2fd0ecf7cd4fbcca61b96d07a.jpg\">"
+                            ],
+                            "flags": 0,
+                            "guid": "P~xf(]aI`t",
+                            "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Wie lässt sich die Änderung des lateralen Versatzes eines Lichtstrahls bei einem Umlauf in einem Resonator ohne Brechungsindex mit zwei unterschiedlichen sphärischen Spiegeln angeben?<div>Wie für $N$ Durchläufe.[/latex]</div>",
+                                "[latex]In der ABCD-Matrix.\\\\<div>Es werden die Einzelprozesse aufmultipliziert.\\begin{enumerate}</div><div>&nbsp; \\item Spiegelm an linkem Spiegel</div><div>&nbsp; \\item Durchlauf des Resonators</div><div>&nbsp; \\item Spiegeln an rechtem Spiegel</div><div>&nbsp; \\item Erneuter Durchlauf des Resonators</div><div>\\end{enumerate}[/latex]</div><div><img src=\"paste-c8b34a4fa5673b87b0452964f7d802e587296174.jpg\"><br></div><div><br></div><div>[latex]Für jeden weiteren Durchlauf, kann die ABCD-Matrix mit sich selbst multipliziert werden.[/latex]<br></div><div><img src=\"paste-ee41f5a37221069364a8e88db94a97aaf8fa41d1.jpg\"><br></div>"
+                            ],
+                            "flags": 0,
+                            "guid": "gJCFi4i|nl",
+                            "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Was kann mathematisch aus der Gleichung für $N$ Durchläufe eines Strahls durch einen Resonator mit sphärischen Spiegeln hergeleitet werden?[/latex]<br>",
+                                "[latex]Die Stabilitätsgleichung für einen Resonator[/latex]<div><img src=\"paste-ef0527674ae9a70f7ef4544380669f233febae9c.jpg\"><br></div><div><br></div><div>[latex]Oder mit den Stabilitätsparametern $g_1$ und $g_2$[/latex]<br></div><div><img src=\"paste-105d3f896851016fdb5ce0c39ea1d80d847090f0.jpg\"><br></div>"
+                            ],
+                            "flags": 0,
+                            "guid": "Bm`Y`Qx}v{",
+                            "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Zeichnen Sie das Stabilitätsdiagramm für Resonatoren und erklären Sie es.[/latex]<br>",
+                                "[latex]Stabilitätsparameter ergeben sich aus Propagationsgleichung eines Laserstrahls für $N$ Durchläufe eines Resonators. Bleibt das Produkt aus ihnen zwischen 0 und 1, so ist der Resonator stabil.[/latex]<div><img src=\"paste-b40a6692b2bd093f61dd50c7e60fd8f2d8dbd389.jpg\"><br></div>"
+                            ],
+                            "flags": 0,
+                            "guid": "x[*NUS)$Aa",
+                            "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Erklären sie im Zusammenhang mit Resonatoren die Begriffe\\begin{itemize}<div>&nbsp; \\item Planar</div><div>&nbsp; \\item Konfokal</div><div>&nbsp; \\item Konzentrisch</div><div>\\end{itemize}</div><div>und nennen Sie möglichkeiten für die Krümmungsradien, um eine solche Anordnung zu erzielen.\\\\</div><div>Sind diese Anordnungen sinnvoll?[/latex]<br></div>",
+                                "[latex]\\begin{itemize}<div>&nbsp; \\item Planar\\\\Spiegel sind Flach und liegen parallel zueinander\\\\</div><div>$R_1 = \\infty, R_2 = \\infty$</div><div>&nbsp; \\item Konfokal\\\\Spiegel fokussieren auf den jeweils anderen Spiegel\\\\</div><div>$R_1 = R_2 = L$</div><div>&nbsp; \\item Konzentrisch\\\\Beide Spiegel fokussieren auf denselben Punkt\\\\</div><div>$R_1 = R_2 = L/2$ oder $R_1 = \\infty, R_2 = L$</div><div>\\end{itemize}</div><div>Die Anordnungen sind nur bedingt sinvoll, da granzstabil. Kleine Abweichungen zur nominellen Anordnung führen zu einem instabilen Resonator.[/latex]</div>"
+                            ],
+                            "flags": 0,
+                            "guid": "PvYeOXQO:I",
+                            "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Zeichnen Sie einige stabile (bennenen) und einige instabile Resonatorspiegelanordnungen.[/latex]<br>",
+                                "<img src=\"paste-f95b17c5046ad33019e891cd64b9414eae5658d8.jpg\">"
+                            ],
+                            "flags": 0,
+                            "guid": "I#&gDH8u-",
+                            "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Wann ist das Stabilitäts-Diagramm nützlich?[/latex]<br>",
+                                "[latex]Vor allem, wenn man schon weiß, dass der Resonator eine gewisse Länge haben muss, weil das Gain-Medium eine feste Länge hat.[/latex]"
+                            ],
+                            "flags": 0,
+                            "guid": "yL_Q>`4zOZ",
+                            "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Was ist neben der mathematischen eine alternative Möglichkeit zur Konvergenzanalyse der Strahlpropagation innerhalb eines Resonators? Welche Methode wird normalerweise verwendet?[/latex]",
+                                "[latex]Computerberechnung mit geeignetem Abbruchkriterium. (Beispiel: Wenn nach einer Mindestdurchlaufanzahl die Änderung klein ist, wird sich vermutlich in Zukunft auch nicht mehr viel tun).\\\\<div><br></div><div>In der Praxis wird die Computersimulation verwendet.[/latex]</div>"
+                            ],
+                            "flags": 0,
+                            "guid": "fG/~U~O/&Q",
+                            "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                            "tags": []
+                        }
+                    ]
+                },
                 {
                     "__type__": "Deck",
                     "children": [],
@@ -27,27 +652,104 @@
                     "extendNew": 10,
                     "extendRev": 50,
                     "media_files": [
+                        "latex-01c88312911cf93071f59451c39573fac5be35e1.png",
+                        "latex-0237926f798d712d733fb2c1ba6898c9a7d3a4a9.png",
+                        "latex-03216c1b40a489f5120027b364577f98a73fa608.png",
+                        "latex-08adcc73796901286002cbba23bcee39a6e7e8fa.png",
+                        "latex-09e142d10bd5576792908ef907963343a170a41c.png",
+                        "latex-107a299fb1a08d70b76c6739035ed53fb8489c2e.png",
+                        "latex-16057881af076ae7423605dd2abb41eb0c797e37.png",
                         "latex-173ccb50c9bad7983a239817997834535f39d083.png",
+                        "latex-1857aac69e691c91ce933d742c3b3c947595bf0d.png",
                         "latex-18f5891f76ba8d570cf2d893c7256e5ee9741fc6.png",
+                        "latex-21b5f9db973885e274076346114e2aac1e789ab1.png",
+                        "latex-225db03b7d707e16577f43351021bccdd320f626.png",
+                        "latex-3438cc079f6e57b409f29bbd2018fb5b41039f82.png",
+                        "latex-377d0e6e75aa164ce912a0091c17b08f877a3b7e.png",
+                        "latex-37c58d314090683ec9bd3d375d22903f4c2090dd.png",
+                        "latex-38a35dcc30098fe9837250bde33843fdcd9f2d66.png",
+                        "latex-3933cb1ae2a62bc875dabbf1a0989b8fa85834ae.png",
                         "latex-4284c547d9c237e756d81c60b296debffe583f97.png",
-                        "latex-4d01eb1543f04fc9d1e4e9dea2b5740ec74d551f.png",
                         "latex-4e55f2a5c204cd01ea2af976706fdba1e78c3fd9.png",
+                        "latex-4f003ae9d4160bc4b44871e9db2b908c37d7e96c.png",
+                        "latex-4f985f42f8230ffdbdf4510fca78caa9a0febb38.png",
+                        "latex-50bd512ddab33f3d9774cf452e70d0eb0a4bd233.png",
                         "latex-50cd53b4a39272afe3f4c6859e1f244b07c2ed3e.png",
-                        "latex-57904a1a2cbdc2ac5020e79429b98e51083f4157.png",
+                        "latex-5295885ebc56bff122816206896bcfe5b20a364a.png",
+                        "latex-54bea8356da4eaffd0db2831e35cb6a8f38dec69.png",
+                        "latex-550dca68675a18105a6d2d137d9158014f034cb9.png",
+                        "latex-573d6c00794c5ccab7426a75408973ffab8606cc.png",
+                        "latex-579c3745d723fc3c9b83905a9f357d8798755349.png",
+                        "latex-5ef2ea21d4f4b60bb0e1d4b63b19ff122d437c8e.png",
+                        "latex-652e04790d23beb20424ffbf7cf473672e49ef17.png",
                         "latex-652e4230cb40a2899490a4a9f0aa05d8436a5cfb.png",
+                        "latex-6a465c812b62424f4c09dccbcb073d981462d34c.png",
+                        "latex-6bbafacb4ad61c1362bf0b497f3d9d63ecf5fdce.png",
                         "latex-6e2f1c2d3d7b65b13062486418ab5bc76c1ecef8.png",
+                        "latex-70861be8ddc6105fec8d2e26f0cbd6f394bd7b4b.png",
+                        "latex-70f5e5fa26922f12b181106b1b6f5a638eeab0c0.png",
+                        "latex-71f9f3d2e9eece12ff0cc91aa9873f9c1fc1498c.png",
+                        "latex-73e8d281ab9e742cd8caea3f856664f64569e2f5.png",
+                        "latex-742bb05ebeebab9587b30a2e8d072e45e60c54eb.png",
+                        "latex-7a70364fbe37939374540d82b32c0f148d79583b.png",
                         "latex-7df771e188d7f50fd74458260a111abe706a3be5.png",
+                        "latex-7f1224782cf920f9e8d076db218b4d1adc6cb1ab.png",
+                        "latex-8718797948b5827fc01c75cfb1019af7de1a0b8e.png",
+                        "latex-872317ee056e0b7daf8de9bff5a9ef0e33f14af2.png",
+                        "latex-87e981403b4adcf79a2901334222727c7bd31e9c.png",
+                        "latex-8dc94876f3d872a50df00fcb1cd0481695738250.png",
                         "latex-903fb98bc092df067a47df9fa4720ac25dd105b0.png",
+                        "latex-920436a693d4dadfd5d34a7291aea9e54c7a383f.png",
+                        "latex-9230a18187513348485c7b22e65c3c57ef3dd385.png",
+                        "latex-92b192798bf3a4529d656d4856c1c1e924b33732.png",
+                        "latex-96a1a0b7efffb8be452585b206742c6cadfa6695.png",
+                        "latex-9a60a38d4ed3ddf7963f5a0bee22188344d49c25.png",
                         "latex-9b8b7a189a3c75b3a4f1138894314d58348902c4.png",
                         "latex-9f8db01827412799c47143aef66b38cb00a8da4c.png",
+                        "latex-a25257277afae59cceea68df549a62ba136670e6.png",
+                        "latex-a5be0a3e0f1c44e5747ab8d039f727ae33c217a5.png",
                         "latex-a9de25b65b3e09e61bb6020f98518c4f655a8105.png",
+                        "latex-b0b0112abdb2c2b5133d25fa66599e97ec2d4db6.png",
+                        "latex-b3bb6dd55bd383cefcab8a20c460c0199198e937.png",
+                        "latex-b65482b0e7cfa8b027749028e860a1b3be76fb2f.png",
+                        "latex-b6c9a994ffd870a829c1f815dd47e849fefcf7f7.png",
+                        "latex-b93e191f4b98076ed280431fce7e4ad7d2c1d9a6.png",
                         "latex-b950da64b12cc96e03b96bda1ade5d59c4b2b249.png",
+                        "latex-bac224b5f0c48578d9c611b7ba69e9e49863e161.png",
+                        "latex-bb543603f302e9b66d9821cfebdde5435eeea446.png",
+                        "latex-bd69a1e5d3f5869845d53875c6c90275a85ba663.png",
+                        "latex-c0025d9baed14e1b27e447c442032ce8a75e3874.png",
+                        "latex-c7c089463d0ca124da8215c781e20918715a6975.png",
+                        "latex-cbb7217b78a4bdb86a923f13afc5bb86e129b9f5.png",
+                        "latex-cd9b8b15a72ead3ea8c9c140fc0a79c60218ccd9.png",
+                        "latex-d294a5e99f5b624788c03d60cebf185808fc53f6.png",
+                        "latex-d50c8f547e2cf92891f8800d7e84fd8d4b7498b1.png",
                         "latex-d58433dea8c441f9212657eb646c052ce492ee2f.png",
+                        "latex-ddd1ac34bce225d4f4d7bf8e8867bb9cbb6ce7bc.png",
+                        "latex-df713e8d86c6361e421be0fc9b4cbd17c2160686.png",
+                        "latex-e074cdf775876fc329822901fa99207e1cf78509.png",
+                        "latex-e5e7ec0caf1669e6008351e7bc3825e006aa7839.png",
+                        "latex-ef079610313ddeba9d26804539aae9fd3b4791fc.png",
+                        "latex-f9784145038ba282486904be4f6801ce44483a78.png",
+                        "latex-fb2e3aad4da389460cdacfccff182900c1a5603c.png",
                         "latex-fb363eca1567d0e766396ca5665361baffb75fa2.png",
+                        "latex-fc1cb3d0bb36ff4f63d53cada988082081f84a16.png",
+                        "latex-fc816be8d2ac17dfb9f8fd4e4fc67bc9d079d212.png",
+                        "paste-00ef1174a123cbc70688bb0801d9bfcbde679318.jpg",
                         "paste-120e4854e09d869219e0b979d772820c2fe4434c.png",
                         "paste-18959faf842663405b980b94ed40547b6d2eff22.png",
+                        "paste-288868a203d5e4929a0a0d5226592fb43a3c9b55.jpg",
                         "paste-2bbfd9ae60bb0afdfd4b2841e00a421df7efe9b9.jpg",
                         "paste-2ee89bc860368e60d6992e7e90320e660470aa34.png",
+                        "paste-49c3d9ec1e7fcd5581ddef92e825bcb084056eea.jpg",
+                        "paste-7113ec81ca32bee479d9cf0c7def195e58897acc.jpg",
+                        "paste-8deacc18072f92bee3956f366c7d1aa3fc7667bc.jpg",
+                        "paste-ab5b4ef53bcbaaa65028cc6e22ae8dbe1c30f8c1.jpg",
+                        "paste-c9b279081ebef372aebf1ca7d538f532a39acafe.jpg",
+                        "paste-d0c6562548321dda54671422ea68d223d7b65df4.jpg",
+                        "paste-d1f0e173f90f6e833a0882b49a5207acefa3e782.jpg",
+                        "paste-d8912b3f1b6eaafc6703e43fa64c421ecac94220.jpg",
+                        "paste-d941eefdf1932434aefb6824729248f6324f930b.jpg",
                         "paste-f7c418384e0bcf53a0f77bd3917125c1e67d11eb.jpg"
                     ],
                     "name": "2 Laser-Beispiele",
@@ -69,7 +771,7 @@
                             "data": "",
                             "fields": [
                                 "[latex]Was sind Vor- und Nachteile von Festkörperlasern?[/latex]",
-                                "[latex]Vorteile:\\begin{itemize}<div>&nbsp; \\item Technisch gut handhabbar</div><div>&nbsp; \\item effiziente Kühlung</div><div>\\end{itemize}</div><div>Nachteile: Isolator:\\begin{itemize}</div><div>&nbsp; \\item kein elektrisches Pumpen möglich</div><div>&nbsp; \\item Energiezufuhr nur optisch</div><div>\\begin{itemize}</div><div>effiziente Pumplichtquelle?[/latex]</div>"
+                                "[latex]Vorteile:\\begin{itemize}<div>&nbsp; \\item Technisch gut handhabbar</div><div>&nbsp; \\item Effiziente Kühlung</div><div>\\end{itemize}</div><div>Nachteile: Isolator:\\begin{itemize}</div><div>&nbsp; \\item Kein elektrisches Pumpen möglich</div><div>&nbsp; \\item Energiezufuhr nur optisch</div><div>\\end{itemize}</div><div>effiziente Pumplichtquelle?[/latex]</div>"
                             ],
                             "flags": 0,
                             "guid": "h>f70LAH<,",
@@ -105,7 +807,7 @@
                             "data": "",
                             "fields": [
                                 "[latex]Was ist ein Thermschema?[/latex]<br>",
-                                "[latex]Beschreibt, welche Energieniveaus in einem Molekül vorhanden sind.\\\\<div>Beispiel Drei-Niveau-Laser:\\begin{itemize}</div><div>&nbsp; \\item Es existiert ein Grund-Niveau</div><div>&nbsp; \\item Elektronen werden auf höheres Niveau gepumpt</div><div>&nbsp; \\item Elektronen relaxieren nichtemittierend auf niedrigeres, oberes Energie-Niveau</div><div>&nbsp; \\item Von dort gehen sie (stimuliert oder spontan) zurück auf das Grund-Niveau.[/latex]</div><div><img src=\"paste-2bbfd9ae60bb0afdfd4b2841e00a421df7efe9b9.jpg\"><br></div>"
+                                "[latex]Beschreibt, welche Energieniveaus in einem Molekül vorhanden sind.\\\\<div>Beispiel Drei-Niveau-Laser:\\begin{itemize}</div><div>&nbsp; \\item Es existiert ein Grund-Niveau</div><div>&nbsp; \\item Elektronen werden auf höheres Niveau gepumpt</div><div>&nbsp; \\item Elektronen relaxieren nichtemittierend auf niedrigeres, oberes Energie-Niveau</div><div>&nbsp; \\item Von dort gehen sie (stimuliert oder spontan) zurück auf das Grund-Niveau.</div><div>\\end{itemize}[/latex]</div><div><img src=\"paste-2bbfd9ae60bb0afdfd4b2841e00a421df7efe9b9.jpg\"><br></div>"
                             ],
                             "flags": 0,
                             "guid": "N^d`hljY|$",
@@ -171,6 +873,402 @@
                             "guid": "xwnu=<v&Y7",
                             "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
                             "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Wessen Lorenz-Profil ist schärfer: Das eines Feststoff- oder das eines Gas-Lasers? Warum?[/latex]<br>",
+                                "[latex]Das eines Gas-Lasers.\\\\<div>Die Atome sind nicht an ein Gitter gebunden, das sie stören könnte.[/latex]</div>"
+                            ],
+                            "flags": 0,
+                            "guid": "o~e{$x;oRD",
+                            "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Nennen Sie Vor- und Nachteile scharfer Lorenzprofile.[/latex]",
+                                "[latex]Vorteil: Reinerer Laser.\\\\<div>Nachteil: Schmalere Absorbtionslinien; optisches Pumpen wird ineffizient.[/latex]</div>"
+                            ],
+                            "flags": 0,
+                            "guid": "nDx^NhSQZw",
+                            "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Wie pumpt man einen Gas-Laser und warum?[/latex]",
+                                "[latex]Da Gas-Laser recht scharfe Absorptionslinien haben, wird optisches Pumpen schnell ineffizient.\\\\<div>Typischer Pumpmechanismus: Übertragung kinetischer Energie von beschleunigten Elektronen über\\begin{itemize}</div><div>&nbsp; \\item elektrische Gasentladung (Ionisation und Elektronenvervielfachung durch hohe elektrische Felder im Gasmedium)</div><div>&nbsp; \\item Elektronenstrahl (externe Elektronenbeschleunigung)</div><div>\\end{itemize}[/latex]</div>"
+                            ],
+                            "flags": 0,
+                            "guid": "sLl?bWu4r=",
+                            "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Nennen Sie drei Arten von aktiven Medien in Gas-Lasern und deren Funktionsweise.[/latex]",
+                                "[latex]\\begin{itemize}<div>&nbsp; \\item Atomare Gas / Ionen (z.B. He-Ne Laser)\\\\</div><div>Nutzt angeregte atomare Gase und Ionen</div><div>&nbsp; \\item Molekulare Gase (z.B. CO$_2 Laser$)\\\\</div><div>Nutzt Vibrations-Rotations-Übergänge</div><div>&nbsp; \\item Chemisch reaktive Edelgase (Excimer Laser z.B. KrF)\\\\</div><div>Regt chemische Reaktionen an und nutzt den Zerfall dieser</div><div>\\end{itemize}[/latex]<br></div>"
+                            ],
+                            "flags": 0,
+                            "guid": "qoa{>48o-j",
+                            "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Nennen Sie Eigenschaften eines He-Ne Lasers und beschreiben Sie kurz die Funktionsweise.[/latex]",
+                                "[latex]\\begin{itemize}<div>&nbsp; \\item Übergangsenergien typisch im UV, VIS und NIR</div><div>&nbsp; \\item Sehr stabil</div><div>&nbsp; \\item Besetzungsinversion ist leicht zu erreichen</div><div><div>\\end{itemize}</div></div><div><div>Funktion\\begin{enumerate}</div><div>&nbsp; &nbsp; \\item Anregung von Helium durch Elektronenstroß\\\\</div><div>(Spontane Emission von Helium sehr langasm)</div><div>&nbsp; &nbsp; \\item Resonanter Energietransfer auf Ne zu metastabilem Zustand (Atom-Atom-Stoß)</div><div>&nbsp; &nbsp; \\item Laserübergänge bei verschiedenen Wellenlängen (5s nach 4s ist verboten); Einnehmen von angeregtem Zustand</div><div>&nbsp; &nbsp; \\item Schneller, strahlender Übergang in utneres angeregtes Niveau</div><div>&nbsp; &nbsp; \\item Nichtemittierende Abgabe der Restenergie über Stoß an Glaswand&nbsp;</div><div>&nbsp; \\end{enumerate}[/latex]</div></div><div><img src=\"paste-7113ec81ca32bee479d9cf0c7def195e58897acc.jpg\"><br></div>"
+                            ],
+                            "flags": 0,
+                            "guid": "ds11:}}E08",
+                            "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Nennen Sie Besonderheiten des Aufbaus eines He-Ne Lasers.[/latex]<br>",
+                                "[latex]\\begin{itemize}<div><div>&nbsp; \\item 1:5 He:Ne</div><div>&nbsp; \\item Dünne Kapilare</div><div>&nbsp; \\item Pumpen durch elektrische Felder / Elektronenstrahl</div><div>&nbsp; \\item Spiegel steuern Resonanzfrequenz</div><div>&nbsp; \\item Begrenzung des Stromes</div><div>\\end{itemize}[/latex]<br></div></div>"
+                            ],
+                            "flags": 0,
+                            "guid": "pa-nJJ>p&:",
+                            "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Warum ist die Begrenzung des Stromes bei Atomaren-Gas-Lasern notwendig?[/latex]",
+                                "[latex]Durch Stoßionisation würde die Stromstärke exponentiell ansteigen, was zur Zerstörung der Lampe führen würde.[/latex]"
+                            ],
+                            "flags": 0,
+                            "guid": "kdY|]8wCLQ",
+                            "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Was sind Eigenschaften von Molekularlasern?[/latex]",
+                                "[latex]\\begin{itemize}<div>&nbsp; \\item Nutzen Vibrations-Rotations-Übergänge</div><div>&nbsp; \\item Vibration (MIR), Rotation (FIR)</div><div>&nbsp; \\item Sehr Leistungsstakr (CO$_2$ bis kW Bereich; Schneiden, Schweißen)<br><div>\\end{itemize}[/latex]</div></div>"
+                            ],
+                            "flags": 0,
+                            "guid": "jp3B8|AwZE",
+                            "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Wie funktioniert ein Excimer-Laser?[/latex]",
+                                "[latex]Laser mit chemisch reaktiven Komponenten.\\begin{enumerate}<div>&nbsp; \\item Verschiebung des Reaktionsgleichgewichts mittels Ladung oder Elektronenstrahl (Hin zu Molekülverbindungen)</div><div>&nbsp; \\item Erzielung von invertiertem Zustand (Mehr Angeregte Moleküle als Grundzustand)</div><div>&nbsp; \\item Angeregte Moleküle geben Energie im UV bereich ab</div><div>&nbsp; \\item Nichtangeregter Moleküle sind instabil; Verbindung zerfällt sofort in ihre Einzelteile<br><div>\\end{enumerate}[/latex]</div></div><div><img src=\"paste-00ef1174a123cbc70688bb0801d9bfcbde679318.jpg\"><br></div>"
+                            ],
+                            "flags": 0,
+                            "guid": "EzDpemRHWw",
+                            "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Was sind Eigenschaften eines Excimer-Lasers?[/latex]<br>",
+                                "[latex]\\begin{itemize}<div>&nbsp; \\item Relativ effizient\\begin{itemize}</div><div>&nbsp; &nbsp; \\item Extrem effiziente Entleerung des unteren Laserniveaus</div><div>&nbsp; &nbsp; \\item Hohe Spitzenleistung</div><div>&nbsp; \\end{itemize}</div><div>&nbsp; \\item Intensive und abstimmbare Lichtquelle im ultravioletten Spektralbereich (z.B. KrF: $\\lambda = 248\\,$nm; Abstimmbereich typisch $\\Delta\\lambda=10\\,$nm</div><div>&nbsp; \\item Gepulst</div><div>&nbsp; \\item Pumpen durch Elektronenstrahl</div><div>\\end{itemize}[/latex]</div>"
+                            ],
+                            "flags": 0,
+                            "guid": "QcWk4u0fqd",
+                            "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Nennen Sie mindestens eine Anwendung für einen Atomaren-Gas-Laser.[/latex]",
+                                "[latex]Durch die stabilen Eigenschaften des Lasers, eignet er sich\\begin{itemize}<div>&nbsp; \\item zur Stabilisierung anderer Laser</div><div>&nbsp; \\item Holographie<br><div>\\end{itemize}[/latex]</div></div>"
+                            ],
+                            "flags": 0,
+                            "guid": "dZ&kEokLr",
+                            "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Nennen Sie mindestens einen Anwendungsbereich für Molekül-Gas-Laser, wie z.B. CO$_2$ Laser.[/latex]",
+                                "[latex]Durch seine vergleichsweise hohe Leistungsdichte eignet er sich für Materialbearbeitung wie\\begin{itemize}<div>&nbsp; \\item Schweißen</div><div>&nbsp; \\item Schneiden</div><div>\\end{itemize}[/latex]</div>"
+                            ],
+                            "flags": 0,
+                            "guid": "lKs}JVECv,",
+                            "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Nennen Sie mindestens einen Anwendungsbereich für Excimer-Laser.[/latex]",
+                                "[latex]Durch die hohe Photonenenergie (und damit kurze Wellenlänge) eignet er sich für\\begin{itemize}<div>&nbsp; \\item Pumpen von Farbstofflasern (hohe Energie)</div><div>&nbsp; \\item Optische Lihografie in der Halbleiter-Herstellung (hohe Auflösung)</div><div>&nbsp; \\item Laserablation (Augenheilkunde)<br><div>\\end{itemize}[/latex]</div></div>"
+                            ],
+                            "flags": 0,
+                            "guid": "n&[_z9)9ko",
+                            "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Was ist eine Beschrängung für die Effizienz eines Atomaren-Gas-Lasers?[/latex]",
+                                "[latex]Um das untere Laserniveau effizient zu entleeren, sind Stöße mit der Wand notwendig. Dies ist beschränkend für die Effizienz des Lasers.\\\\Außerdem ist es die Ursache für die dünnen Kapillare.[/latex]"
+                            ],
+                            "flags": 0,
+                            "guid": "QgL[u-1>5R",
+                            "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Was sind die wichtigsten Vorteile von Halbleiter-Diodenlasern?[/latex]<br>",
+                                "[latex]\\begin{itemize}<div>&nbsp; \\item Extrem klein und Kompakt</div><div>&nbsp; \\item Sehr effizient, durch elektrische Energie Pumpbar</div><div>&nbsp; \\item Schnell Modulierbar</div><div>\\end{itemize}[/latex]</div>"
+                            ],
+                            "flags": 0,
+                            "guid": "h:?BeT4m}3",
+                            "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Was sind Voraussetzungen an einen lasenden Halbleiter im Bezug auf die Bandlücke?[/latex]",
+                                "[latex]Es muss sich um einen direkten Halbleiter handeln: Im Impulsraum müssen das Minimum des Leiterbandes und das Maximum des Valenzbandes direkt übereinander sein.\\\\<div>Nur direkte Halbleiter zeugen intensive Lumineszenz.[/latex]<div><img src=\"paste-d941eefdf1932434aefb6824729248f6324f930b.jpg\"><br></div></div>"
+                            ],
+                            "flags": 0,
+                            "guid": "F?^f/jH=3<",
+                            "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Wie ist der Zusammenhang zwischen Photonenenergie und Bandlücke für eine absorbierende Photodiode?[/latex]<br>",
+                                "[latex]<br>Damit ein Photon ein Elektronen-Loch-Paar erzeugen kann, muss für das Energieverhältnis\\\\<div><br></div><div>$h\\nu&gt;E_{gap}$\\\\</div><div><br></div><div>gelten.[/latex]</div>"
+                            ],
+                            "flags": 0,
+                            "guid": "tc]18/:O:*",
+                            "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Was ist die allgemeine Grundvoraussetzung für Lichtverstärkung durch stimulierte Emission?[/latex]",
+                                "[latex]Besetzungs-Inversion![/latex]"
+                            ],
+                            "flags": 0,
+                            "guid": "Cm&9zDM!L8",
+                            "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Wie hängt in einem Halbleiter die Besetzungs-Inversion mit der Absorption $\\alpha(\\omega)$ zusammen?[/latex]",
+                                "[latex]Die Funktion der Besetzungszahlen, abhängig vom Impuls des Elektrons, im Leiterband\\\\<div>$f_c(\\boldsymbol k)$\\\\</div><div>und im Valenzband\\\\</div><div>$f_v(\\boldsymbol k)$\\\\</div><div>gehen in die Absorption nach\\\\</div><div><br></div><div>$\\alpha(\\omega) = \\alpha_0(\\omega)\\bigg(1-f_c(\\boldsymbol k) -f_v(\\boldsymbol k)\\bigg)$\\\\</div><div><br></div><div>ein.\\\\</div><div>Da die Besetzungszahlen Werte zwischen 0 und 1 einnehmen können, kann der Faktor hinter $\\alpha_0$ Werte zwischen -1 und 1 annehmen. Ist der Wert negativ, findet keine Absorption, sondern verstärkung statt.[/latex]</div>"
+                            ],
+                            "flags": 0,
+                            "guid": "IfU/k[p)g<",
+                            "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Welche Voraussetzungen an die Besetzungszahlen eines Halbleiters bestehen, damit dieser absorbieren kann? Was passiert, wenn eine der Bedingungen nicht erfüllt ist?[/latex]<br>",
+                                "[latex]Voraussetzungen:\\begin{itemize}<div>&nbsp; \\item Photonenenergie muss hoch genug sein</div><div>&nbsp; \\item Es müssen Elektronen im Valenzband bereit stehen, die Photonenenergie absorbieren und ins Leitungsband übergehen</div><div>&nbsp; \\item Es müssen freie Zustände im Leitungsband vorhanden sein, in die das angeregte Elektron aufsteigen kann<br><div>\\end{itemize}</div><div>Ist eine der Voraussetzungen nicht gegeben, so ist das Material für das Photon transparent.<br>Ist die Absorptionszahl negativ, findet übrigens Verstärkung statt.[/latex]</div></div><div><img src=\"paste-d1f0e173f90f6e833a0882b49a5207acefa3e782.jpg\"><br></div>"
+                            ],
+                            "flags": 0,
+                            "guid": "qAOg&/yjVs",
+                            "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Wie ist die Struktur eines Halbleiter-Diodenlasers und warum ist sie so aufgebaut?[/latex]<br>",
+                                "[latex]Heterostruktur:\\begin{itemize}<div>&nbsp; \\item Ähnlich, wie eine Photodiode: p-i-n</div><div>&nbsp; \\item Intrinsische Schicht bildet mit sehr dünner Schicht eines weiterem Materials (Film) einen Quantentopf</div><div>&nbsp; \\item Energieniveaus in Film sind quantisiert (Leitungsband niedriger, Valenzband höher als in umgebendem Material)</div><div>\\end{itemize}</div><div>[/latex]</div><div><img src=\"paste-d0c6562548321dda54671422ea68d223d7b65df4.jpg\"><br></div>"
+                            ],
+                            "flags": 0,
+                            "guid": "d]p2RPJRYh",
+                            "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Wozu dient die Heterostruktur in einem Halbleiter-Diodenlaser?[/latex]",
+                                "[latex]Die Heterostruktur ist wichtig, um den Halbleiter von einer normalen LED zu einem Laseremitter zu machen.\\\\<div>Legt man Spannung an:<br></div><div>\\begin{itemize}</div><div>&nbsp; \\item wollen Elektronen Löcher und Elektronen auf die jeweils andere Seite wandern</div><div>&nbsp; \\item fallen dabei (nichtemittierend) in den Quantentopf in der mitte und erzeugen eine Besetzungs-Inversion</div><div>&nbsp; \\item ab gewisser Konzentration ist die Chance der Rekombination sehr hoch (beginnt spontan)</div><div>&nbsp; \\item durch Besetzungs-Inversion findet stimulierte Emission statt</div><div>\\end{itemize}[/latex]</div><div><img src=\"paste-c9b279081ebef372aebf1ca7d538f532a39acafe.jpg\"><br></div>"
+                            ],
+                            "flags": 0,
+                            "guid": "y1(*M?UxUB",
+                            "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Als wieviel-Niveau-Laser kann ein Halbleiter-Diodenlaser verstanden werden? Beschreiben Sie die Niveaus.[/latex]<br>",
+                                "[latex]Als nahezu idealer Vier-Niveau-Laser.\\\\<div>\\begin{enumerate}</div><div>&nbsp; \\item Freie Löcher unterhalb des unteren Laserniveaus</div><div>&nbsp; \\item utneresLaserniveau</div><div>&nbsp; \\item oberes Laserniveau</div>&nbsp; \\item Freie Elektronen oberhalb des oberen Laserniveaus<div>\\end{enumerate}</div><div>Oberes Laserniveau wird sehr schnell nachgefüllt, unteres Laserniveau wird sehr schnell entleert. Grund dafür sind schnelle Relaxation hochenergetischer Elektronen und Löcher.[/latex]</div><div><img src=\"paste-49c3d9ec1e7fcd5581ddef92e825bcb084056eea.jpg\"><br></div>"
+                            ],
+                            "flags": 0,
+                            "guid": "sI$rbE/+|7",
+                            "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Wie kommt das Licht aus dem Quantentopf eines Halbleiter-Diodenlasers?[/latex]<br>",
+                                "[latex]Da die Quantenniveaus des Quantentopfes einen geringeren Abstand haben, als die Lücke zwischen Leitungs- und Valenzband, haben die emittierten Photonen zu wenig Energie, um vom umgebenden intrinsischen Halbleiter absorbiert zu werden. Dieser ist für die Photonen transparent.\\\\<div><br></div><div>Die umgebenden p- und n-Halbleiter sind so gewählt, dass sie einen höheren Brechungsindex als der intrinsische Halbleiter haben und damit total reflektiv sind. Der Intrinsische Halbleiter ist damit ein Wellenleiter; das Licht kann sich nur entlang der Längsachse ausbreiten.\\\\</div><div><br></div><div>Eine Öffnung der Längsachse ist durch aufgedampfte Oxide ein zu $100\\,$\\% effizienter dielektrischer Spiegel angebracht, die andere Seite ist offen. Durch die Atomar-glatte Schnittfläche der anderen Seite, reflektiert die öffnung selbstständig zu etwa $30\\,$\\%.&nbsp;</div><div>[/latex]<br></div>"
+                            ],
+                            "flags": 0,
+                            "guid": "Duo4Z&IhKG",
+                            "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Was passiert mit der Energie, die frei wird, wenn Elektronen und Löcher in den Quantentopf fallen?[/latex]<br>",
+                                "[latex]Energie wird nicht-emittierend frei und ans Gitter abgegeben. Es handelt sich um Verlustenergie.[/latex]"
+                            ],
+                            "flags": 0,
+                            "guid": "GX1xM$&gSs",
+                            "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Wie sieht das Energie-Orts-Diagramm einer Photodiode aus? Wie verändert es sich, wenn man Spannung anlegt? Wie viel Spannung im Vergleich zur Bandlücke muss angelegt werden, damit eine Light-Emitting-Diode daraus wird?[/latex]",
+                                "<img src=\"paste-288868a203d5e4929a0a0d5226592fb43a3c9b55.jpg\"><div><img src=\"paste-8deacc18072f92bee3956f366c7d1aa3fc7667bc.jpg\"><br></div><div>[latex]Man muss ausreichend Spannung anlegen, um die Energie der Bandlücke zu überwinden.\\\\</div><div><br></div><div>Beispiel:Wenn die Bandlücke etwa $1.46\\,$eV beträgt, kann man dies direkt übersetzen in Spannung (denn es sollen ja Elektronen angehoben werden). Man müsste also etwa $1.5\\,$V anlegen.[/latex]<br></div>"
+                            ],
+                            "flags": 0,
+                            "guid": "zaAuoU?5&S",
+                            "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Was ist Wellenleitung?[/latex]",
+                                "[latex]In\neinem Material umgeben von einem anderen Material mit\nkleinerem Brechungsindex findet an dem Übergang totale Reflexion\nstatt;\\\\<br>Licht kommt nicht aus der Struktur heraus und wird geleitet.[/latex]<br>"
+                            ],
+                            "flags": 0,
+                            "guid": "ewJ^z;Z:;r",
+                            "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Wie hängt die Reflektivität einer Oberfläche vom Brechungsindex ab, wenn sie eine Grenze zu Luft bildet?[/latex]<br>",
+                                "[latex]$r=\\dfrac{(n-1)^2}{(n+1)^2}$[/latex]<br>"
+                            ],
+                            "flags": 0,
+                            "guid": "Mfv=<~=v[_",
+                            "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Ist ein Auskopplungsreflektor mit einer Reflexion von um die $0.3$ für einen Halbleiter-Diondenlaser geeignet? Begründung![/latex]",
+                                "[latex]Ja.\\\\Durch die hohe Verstärkung ist eine schlechte Resonatorgüre ausreichend um Laserschwelle zu erreichen.[/latex]"
+                            ],
+                            "flags": 0,
+                            "guid": "GCT%qAWA_q",
+                            "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Wie sieht das Fernfeld eines Halbleiter-Diodenlasers aus? Warum sieht es so aus? Was kann dagegen gemacht werden?[/latex]",
+                                "[latex]Stark elliptisches Fernfeld.\\\\<div>Laseröffnung (Apertur) ist sehr Rechteckig. Es findet Beugung an in senkrecht zur langen Kante statt (schmaler Spalt), aber nur wenig Beugung senkrecht zur schmalen Kante (Spaltbreite viel größer als Wellenlänge).\\\\</div><div>Durch eine Linse kann eine Refokussierung erzielt werden.[/latex]</div><div><img src=\"paste-d8912b3f1b6eaafc6703e43fa64c421ecac94220.jpg\"><br></div>"
+                            ],
+                            "flags": 0,
+                            "guid": "oN5.!X>/4|",
+                            "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Wozu dient die Linse auf einem Halbleiter-Diodenlaser? Sagen Sie etwas zur Güte, mit der die Linse funktioniert.[/latex]",
+                                "[latex]Um das stark elliptische Fernfeld des Lasers zu Refokussieren.\\\\<div><br><div>Sie ist aber kein Allheilmittel. Aus einem Laser mit schlechtem Strahlungs-Profil kann man kaum wieder einen mit gutem Profil erzeugen. Man kann es aber für eine vorher bestimmte Distanz deutlich aufwerten.\\\\</div><div>Natürlich ist das Profil im Fernfeld oder ganz nach an dem Laser weiterhin schlecht.[/latex]</div></div>"
+                            ],
+                            "flags": 0,
+                            "guid": "t+=n=~q_<K",
+                            "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Wie sieht die Strom-Leisturngs-Kennlinie eines Halbleiterlasers aus? In welchem Bereich wird die Spannung eines Halbleiterlasers moduliert?[/latex]<br>",
+                                "<img src=\"paste-ab5b4ef53bcbaaa65028cc6e22ae8dbe1c30f8c1.jpg\"><div>[latex]Lumineszenz wie LED.\\\\</div><div><br></div><div>Modulation im Eckbereich. Ermöglicht sehr schnelles ein und ausschalten des Lasers.[/latex]<br></div>"
+                            ],
+                            "flags": 0,
+                            "guid": "c21.1dwI$M",
+                            "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Welche Arten von Emittern vei Halbleiterlasern gibt es und wo werden sie verwendet?[/latex]<br>",
+                                "[latex]\\begin{itemize}<div>&nbsp; \\item Kantenemitter (Laserpointer, Pumpen)</div><div>&nbsp; \\item Oberflächenemitter (Mäuse, Gesichtsscanner)</div><div>&nbsp; \\item Quantenkaskaden-Laser (Spektroskopische Anwendungen)<br><div>\\end{itemize}[/latex]</div></div>"
+                            ],
+                            "flags": 0,
+                            "guid": "F(+CHw[Jp+",
+                            "note_model_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+                            "tags": []
                         }
                     ]
                 },
@@ -186,6 +1284,7 @@
                     "media_files": [
                         "latex-034d3dd6f1142045805927b1eacfcff207df8c8f.png",
                         "latex-0b9227abd577b964fb1d94bc73281612d2ff35df.png",
+                        "latex-1056ae8c6d64c015fe8e794ef2d79fda08bd8ee0.png",
                         "latex-22844ff2ad3f4bc3f8c5ca01ae45c54bd77db10e.png",
                         "latex-30cc1d6e0591892a1dea32fdb6a8421639721171.png",
                         "latex-3ff90ef162ee412942119358157c31e237054b8b.png",
@@ -196,7 +1295,6 @@
                         "latex-639b939a0abae4bb969d582af60b7201d381e509.png",
                         "latex-73de4739f5ecc6f33fcc1e98d33a2ce1806f9a77.png",
                         "latex-741f51103765a75556680d3a477780a5af00e6ce.png",
-                        "latex-7c17e7648776c7e335d8058f086aee9404744d40.png",
                         "latex-8f245ba5592b33b63d40c804d739844adedcccd7.png",
                         "latex-926f27afd2ee4c1780bb2fd52e43543fb358586b.png",
                         "latex-9271ca626f5e0ba30565302931b5a0991345ed00.png",
@@ -206,12 +1304,12 @@
                         "latex-a7a60b04bd01289da18ff6231d6c3fbc19080008.png",
                         "latex-ae58de81a39796c01e4845c896316f4dfa3126c7.png",
                         "latex-b39af955602f897026db9fed69adcb043ba9bd60.png",
+                        "latex-b88c548f01b62f39734e44c2550b2572f8ec5312.png",
                         "latex-c168679dee2f65e087071e2d86a3cdbce730fea5.png",
                         "latex-c48edd7551d96592541b810a208203dd4aed0476.png",
                         "latex-c6bc2362a063bcb471e746256607f0ceee7a36f9.png",
                         "latex-cf0f28ca2284fc563e269ce630d16465eaa4fb1b.png",
                         "latex-cfb4ad47b94e54be14e021d85de11399d1904281.png",
-                        "latex-d483d85b6d3ac60d1e7a7086b324046c630d46ba.png",
                         "latex-dd656bcd4267f09b42c5b025b6cb3abb9bb97242.png",
                         "latex-f16595cf57b25ad7b0dd87aac84657dc5fcdbcea.png",
                         "latex-f3e8600129c574f3aeaa135c55fad630d62dd433.png",
@@ -242,7 +1340,7 @@
                             "data": "",
                             "fields": [
                                 "[latex]Wie ist das Modell eines Zweiniveaulasers aufgebaut?[/latex]",
-                                "[latex]\\begin{itemize}<div>&nbsp; \\item Eine Ansammlung aus Zweiniveau-Systemen (Zwei Energielevel $E_1$ und $E_2$)</div><div>&nbsp; \\item Übergangsenergie $h\\boldsymbol v_{21}</div><div>&nbsp; \\item schmalbandiges Strahlungsfeld mit Frequenz $\\boldsymbol v\\approx\\boldsymbol v_{21}$</div><div>\\end{itemize}[/latex]</div><div><img src=\"paste-5b7244be9384de3962a4208a3fe17e2b628639b9.jpg\"><br></div>"
+                                "[latex]\\begin{itemize}<div>&nbsp; \\item Eine Ansammlung aus Zweiniveau-Systemen (Zwei Energielevel $E_1$ und $E_2$)</div><div>&nbsp; \\item Übergangsenergie $h\\boldsymbol v_{21}$</div><div>&nbsp; \\item Schmalbandiges Strahlungsfeld mit Frequenz $\\boldsymbol v\\approx\\boldsymbol v_{21}$</div><div>\\end{itemize}[/latex]</div><div><img src=\"paste-5b7244be9384de3962a4208a3fe17e2b628639b9.jpg\"><br></div>"
                             ],
                             "flags": 0,
                             "guid": "iW)^Q$RAP^",
@@ -314,7 +1412,7 @@
                             "data": "",
                             "fields": [
                                 "[latex]Wie ist der \\textit{gain coefficient} definiert und in welcher Gleichung kommt er zum Tragen?[/latex]",
-                                "[latex]$g(\\nu)=\\dfrac{lambda^2}{8\\pi}A(N_2-N_1)S(\\nu)$\\\\<div><br></div><div>Er gibt Auskunft darüber, wie gut ein Lasermedium als Verstärkungsmedium dient.\\\\</div><div>Zum Tragen kommt er in der Kontinuitätsgleichung für die Intensiät\\\\</div><div><br></div><div>$\\left(\\dfrac{1}{c}\\dfrac{\\partial}{\\partial t}+\\dfrac{\\partial}{\\partial z}\\right)I_\\nu=g(\\nu)I_\\nu$\\\\</div><div><br></div><div>oder im stationären Zustand\\\\</div><br><div>$\\dfrac{\\text{d}I_\\nu}{\\text{d}z}=g(\\nu)I_\\nu$\\\\[/latex]</div>"
+                                "[latex]$g(\\nu)=\\dfrac{\\lambda^2}{8\\pi}A(N_2-N_1)S(\\nu)$\\\\<div><br></div><div>Er gibt Auskunft darüber, wie gut ein Lasermedium als Verstärkungsmedium dient.\\\\</div><div>Zum Tragen kommt er in der Kontinuitätsgleichung für die Intensiät\\\\</div><div><br></div><div>$\\left(\\dfrac{1}{c}\\dfrac{\\partial}{\\partial t}+\\dfrac{\\partial}{\\partial z}\\right)I_\\nu=g(\\nu)I_\\nu$\\\\</div><div><br></div><div>oder im stationären Zustand\\\\</div><br><div>$\\dfrac{\\text{d}I_\\nu}{\\text{d}z}=g(\\nu)I_\\nu$\\\\[/latex]</div>"
                             ],
                             "flags": 0,
                             "guid": "dMeLGb^-C,",
@@ -440,6 +1538,19 @@
             "extendRev": 50,
             "media_files": [],
             "name": "II Laserphysik",
+            "notes": []
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "ce23ab5c-0297-11eb-abe0-4ccc6a4d8422",
+            "deck_config_uuid": "4de1d3e1-a0f4-11ea-aa1d-b4d5bdceb84f",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [],
+            "name": "III Nichtlineare Optik",
             "notes": []
         },
         {
@@ -916,382 +2027,6 @@
                     "tags": []
                 }
             ]
-        },
-        {
-            "__type__": "Deck",
-            "children": [
-                {
-                    "__type__": "Deck",
-                    "children": [],
-                    "crowdanki_uuid": "ce235e48-0297-11eb-9d4f-4ccc6a4d8422",
-                    "deck_config_uuid": "4de1d3e1-a0f4-11ea-aa1d-b4d5bdceb84f",
-                    "desc": "",
-                    "dyn": 0,
-                    "extendNew": 10,
-                    "extendRev": 50,
-                    "media_files": [],
-                    "name": "Windkanal",
-                    "notes": []
-                },
-                {
-                    "__type__": "Deck",
-                    "children": [],
-                    "crowdanki_uuid": "ce235e44-0297-11eb-a4e9-4ccc6a4d8422",
-                    "deck_config_uuid": "4de1d3e1-a0f4-11ea-aa1d-b4d5bdceb84f",
-                    "desc": "",
-                    "dyn": 0,
-                    "extendNew": 10,
-                    "extendRev": 50,
-                    "media_files": [],
-                    "name": "LDA",
-                    "notes": []
-                },
-                {
-                    "__type__": "Deck",
-                    "children": [],
-                    "crowdanki_uuid": "ce235e40-0297-11eb-adc8-4ccc6a4d8422",
-                    "deck_config_uuid": "4de1d3e1-a0f4-11ea-aa1d-b4d5bdceb84f",
-                    "desc": "",
-                    "dyn": 0,
-                    "extendNew": 10,
-                    "extendRev": 50,
-                    "media_files": [],
-                    "name": "Materialbearbeitung und Fügung",
-                    "notes": []
-                }
-            ],
-            "crowdanki_uuid": "ce235e3c-0297-11eb-89ac-4ccc6a4d8422",
-            "deck_config_uuid": "4de1d3e1-a0f4-11ea-aa1d-b4d5bdceb84f",
-            "desc": "",
-            "dyn": 0,
-            "extendNew": 10,
-            "extendRev": 50,
-            "media_files": [],
-            "name": "V Anwendung",
-            "notes": []
-        },
-        {
-            "__type__": "Deck",
-            "children": [],
-            "crowdanki_uuid": "ce238431-0297-11eb-9560-4ccc6a4d8422",
-            "deck_config_uuid": "4de1d3e1-a0f4-11ea-aa1d-b4d5bdceb84f",
-            "desc": "",
-            "dyn": 0,
-            "extendNew": 10,
-            "extendRev": 50,
-            "media_files": [],
-            "name": "IV Photoelektronik",
-            "notes": []
-        },
-        {
-            "__type__": "Deck",
-            "children": [],
-            "crowdanki_uuid": "ce238435-0297-11eb-ab63-4ccc6a4d8422",
-            "deck_config_uuid": "4de1d3e1-a0f4-11ea-aa1d-b4d5bdceb84f",
-            "desc": "",
-            "dyn": 0,
-            "extendNew": 10,
-            "extendRev": 50,
-            "media_files": [
-                "lasertab.PNG",
-                "latex-02ac3750a2c2bb3faaa81af39fd55a51d3cbbc2b.png",
-                "latex-0f2e9b69f8b9859d75ab8655e76e5b52498466b7.png",
-                "latex-100dadb526e4c7437d0f554061716c4bd1d22544.png",
-                "latex-10308648c43a6ba6a169bf049c50a795f2726765.png",
-                "latex-107d0ebd9c8315cfa1bd40d73818a4f4dedbc824.png",
-                "latex-142c0f0bbeac06f2217d2766111599f26665805e.png",
-                "latex-147640774a2030c8084f4f2edaadb4e40a84e843.png",
-                "latex-15c932dcb8b19ead6dac3c44fd35d6af64177405.png",
-                "latex-2eea7bd664187eee5d82471bd6748fd50b008479.png",
-                "latex-30e850ae9e96bbf08df748aa2ede5eb2736f999b.png",
-                "latex-33826f5562961a3993bd1f8813c9d44a71ace693.png",
-                "latex-339809654bafe218758105fc8e373167549b47b7.png",
-                "latex-3d7ea566e823ebccb0a6d77287955f0b50c7f011.png",
-                "latex-3d8f814a58cdce43e97e393d4bf9004aa7f556f0.png",
-                "latex-417b4cd9435cb65dd50ee8963ed18f65d745e405.png",
-                "latex-481d6aa668a4253eea47139df18cc85b81c1caf0.png",
-                "latex-5505fa99ea7752ce5c0efa36cac87eeeeacd80da.png",
-                "latex-56da98df8b4bc1100de371e464d5db1290ffb6ab.png",
-                "latex-7b72f7c4a9f535bfb77ee741cf4e55df47303c31.png",
-                "latex-8568a84b19a3126b361da1322991f683ae692a53.png",
-                "latex-89c8bfe021915aa3d0f6bd4a50d0b74e888ca133.png",
-                "latex-89f8414b741c178371918e25688e194b818e7555.png",
-                "latex-94f5ccef15f747c86831cade35a3e7bc8ad3ecda.png",
-                "latex-9fd92d6cf82e843a00af40e56a1d7232ef79d43e.png",
-                "latex-a1a922267f33503596bdbff2ca055db8a8a62345.png",
-                "latex-a90feb438139656776e94b8dc22b6f8a781332a1.png",
-                "latex-a983749a41ae60fa5a5ffe3088892d5c6b4ccdfe.png",
-                "latex-b06422d7639db76b35df3dfa32c222591402cfe2.png",
-                "latex-b1d77ba559907301dafe9d78c476e5d033215449.png",
-                "latex-b480051bde8de62b44e5d15d2853a409470554a6.png",
-                "latex-b8a970357692e13cae6c12f7025b950bec4b9bd9.png",
-                "latex-b8c35d4a612844d0e347c91427aa3e2ee5ec8a5f.png",
-                "latex-ba362a1cbdfac587468f8f027c0834367eaa3c64.png",
-                "latex-bdba8746daba2ece585a6e3a69e9c562f836fa8b.png",
-                "latex-c4e3df08f1e1d3b56465d7519863deb9464b437f.png",
-                "latex-cb78f1efd90df80b1d5f8501192cef3c199c70a4.png",
-                "latex-cf1bd9b931991e438d35f005f647133ba98320f1.png",
-                "latex-d6af9df722cd69300d2bbd5ec5a30d498f4eeae1.png",
-                "latex-e4be198b87f34c58c65801eec64919026c125601.png",
-                "latex-e70c6e0d22023e207e6a5da7d18984f4ac3fd53e.png",
-                "latex-fc2ac0e7f8263376dde03e0754bfef7011717b6e.png"
-            ],
-            "mid": 1591716652010,
-            "name": "0 Motivation/Einführung",
-            "notes": [
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Nennen Sie Quellen für natürliche Laser.[/latex]<br>",
-                        "[latex]Es wurden bisher keine natürlichen Laser gefunden. Es wird gesucht, aber wahrscheinlich nicht gefunden...[/latex]"
-                    ],
-                    "flags": 0,
-                    "guid": "JhAG9Uz$s:",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Was ist der Vorteil von Lasermaterialbearbeitung, im Vergleich zu gewöhnlichen Schweißern oder Bohrern?[/latex]",
-                        "[latex]\\begin{itemize}<div>&nbsp; \\item Makroskopisch betrachtet nahezu beliebig präzise</div><div>&nbsp; \\item Wird nicht stumpf<br><div>\\end{itemize}[/latex]</div></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "I0S$k#0DBb",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Was macht das Licht eines Lasers aus?[/latex]",
-                        "[latex]Der Laserstrahl ist eine kohärente Lichtquelle.[/latex]"
-                    ],
-                    "flags": 0,
-                    "guid": "F3#<:S4m`q",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Nennen Sie Anwendungsbeispiele für Laser.[/latex]",
-                        "[latex]\\begin{itemize}<div>&nbsp; \\item Lasersintern oder Laserschmelzen</div><div>&nbsp; \\item Satellitenkommunikation</div><div>&nbsp; \\item Laserschweißen</div><div>&nbsp; \\item Laserinduzierte Floureszent\\\\Material absorbiert Laserwellenlänge und strahlt charakteristisch bei anderen Wellenlängen ab. \\#Ramanspektroskopie<br><div>\\end{itemize}[/latex]</div></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "xVuoh{.>-+",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Wie hängt der Brechungsindex $n$ eines Materials und die Lichtgeschwindigkeit $c_M$ dieses Materials zusammen?[/latex]",
-                        "[latex]$c_{M}=\\dfrac{c_0}{n}$[/latex]"
-                    ],
-                    "flags": 0,
-                    "guid": "tfGWv~{;|$",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Was ist der Brechungsindex von Glasfaser? Was der des Vakuums?[/latex]",
-                        "[latex]\\begin{itemize}<div>&nbsp; \\item Glasfaser: $1.4$</div><div>&nbsp; \\item Vakuum: $1.0$</div><div>\\end{itemize}[/latex]</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "E+_uE5Vkl}",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Definieren Sie Optoelektronik.[/latex]",
-                        "[latex]Erzeugung, Modulation von Licht durch Spannung/Strom und Detektion von Licht, das Spannung/Strom erzeugt.\\\\Kombination von optischen (Lichtquellen, Sensoren) mit elektronischen Komponenten (Schaltungen).[/latex]"
-                    ],
-                    "flags": 0,
-                    "guid": "AO{@j@5Q05",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Was sind Eigenschaften optoelektronischer Komponenten?[/latex]",
-                        "[latex]\\begin{itemize}<div>&nbsp; \\item Klein</div><div>&nbsp; \\item Kompakt</div><div>&nbsp; \\item Niedriger Leistungsbedarf</div><div>\\end{itemize}[/latex]</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "oBA&#8|;/]",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Wofür steht das Wort Laser?[/latex]<br>",
-                        "[latex]LASER ist ein Kunstwort und steht für \\textbf Light \\textbf&nbsp;Amplification by \\textbf&nbsp;Stimulated \\textbf&nbsp;Emission of \\textbf&nbsp;Radiation.[/latex]"
-                    ],
-                    "flags": 0,
-                    "guid": "ReW*ednQ|X",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Aus welchen Teilen besteht ein Laser?[/latex]<br>",
-                        "[latex]\\begin{enumerate}<div>&nbsp; \\item Aktives Medium</div><div>&nbsp; \\item Resonator</div><div>&nbsp; \\item Pumpquelle<br><div>\\end{enumerate}[/latex]</div></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "O>xT^E8N]5",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Was ist ein Resonator?[/latex]",
-                        "[latex]Einer der drei Bauteile eines Lasers. Besteht basicly aus zwei Spiegeln, bei dem einer eine Reflekivität von $100\\,$\\% und der ander eine kleiner $100\\,$\\% hat.[/latex]"
-                    ],
-                    "flags": 0,
-                    "guid": "G5Wg1a#V[~",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Nennen Sie eine Größenordnung für die Durchlässigkeit des transparenten Teils des Resonators.[/latex]",
-                        "[latex]Unter $2\\,$\\%. Kann durch Beschichtung sehr genau eingestellt werden (auf z.B. $0.77\\,$\\%).[/latex]"
-                    ],
-                    "flags": 0,
-                    "guid": "f)yoP`Tl#H",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Was sind beispielhafte Pumpquellen?[/latex]",
-                        "[latex]\\begin{itemize}<div>&nbsp; \\item Blitzlampe (Historisch)</div><div>&nbsp; \\item Andere Laser</div><div>&nbsp; \\item Elektrischer Strom</div><div>&nbsp; \\item ...</div><div>\\end{itemize}[/latex]</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "C_x:^CGu5x",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Was sind beispielhafte Aktive Medien?[/latex]",
-                        "[latex]\\begin{itemize}<div>&nbsp; \\item Atomare Gase</div><div>&nbsp; \\item Festkörper (Kristalle)</div><div>&nbsp; \\item Farbstofflösungen<br><div>\\end{itemize}[/latex]</div></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "p;=tX5>Gir",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Was ist ein Rubinkristall? Eignet er sich als Laser?[/latex]",
-                        "[latex]Ein Saphirkristall der mit etwa einem Prozen Chromionen dotiert ist.\\\\<div>Er eignet sich zum Lasen, bei sehr niedriger Effizienz von etwa einem Prozent.[/latex]</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "s=pLgVs6=k",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Was ist das Problem mit Lasern für hohe Frequenzbereiche?[/latex]",
-                        "[latex]Laser nutzen gezielt stimulierte Emission aus um Kohärentes Licht zu erzeugen.\\\\Einstein hat hergeleitet, dass das Verhältnis von spontaner zu stimulierte Emission mit der $4.$ Potenz von der Wellenlänge abhängt. So ist die spontane Emissionsrate bei hochfrequentem Licht zu hoch, um einen Lawineneffekt aus stimulierter Emission zu erzeugen.[/latex]"
-                    ],
-                    "flags": 0,
-                    "guid": "I`0UzZsz(^",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Warum finden manche die Maßeinheit der Wellenlänge ungeschickt?[/latex]",
-                        "[latex]Am liebsten will man sich in der Physik in Energie unterhalten und der Kehrwert der Wellenlänge ist proportional zur Energie.\\\\<div>$\\dfrac{1}{\\lambda}\\propto E$[/latex]<br></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "n]&w+%SA+v",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Was ist ein wichtiges Maß für die Energie von Licht?[/latex]",
-                        "[latex]Photonenenergie $E_{phot}$.\\\\<div>$E{phot} = hf=hc/\\lambda=hqc$\\\\</div><div>mit\\\\</div><div>$q=1/\\lambda$[/latex]</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "bF77[/TTj9",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Wie berechnet man die Temperatur eines Lasers?[/latex]",
-                        "[latex]Lasertemperatur lässt sich aus der Photonenenergie und der Bolzmankonstante berrechnen.\\\\<div>$k_BT=E_{phot}$[/latex]</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "uO*nq]~7>o",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Nennen Sie Beispiele für den Einsatz von Halbleiterlasern.[/latex]",
-                        "[latex]\\begin{itemize}<div>&nbsp; \\item Glasfaserkommunikation</div><div>&nbsp; \\item Pumpquelle</div>&nbsp; \\item Laserpointer<div><div>\\end{itemize}[/latex]</div></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "p8:t`dyCk_",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "[latex]Nenne 2 Beispiele für Laser.<br>In welchen Bereichen bewegen sich Wellenlänge, Frequenz und Leistung?[/latex]",
-                        "<img src=\"lasertab.PNG\">"
-                    ],
-                    "flags": 0,
-                    "guid": "e;Y{]T:#:e",
-                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
-                    "tags": []
-                }
-            ]
         }
     ],
     "crowdanki_uuid": "c19b747c-9c1f-11ea-9ebd-b4d5bdceb84c",
@@ -1397,63 +2132,6 @@
     "note_models": [
         {
             "__type__": "NoteModel",
-            "crowdanki_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
-            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
-            "flds": [
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Vorderseite",
-                    "ord": 0,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Rückseite",
-                    "ord": 1,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                }
-            ],
-            "latexPost": "\\end{document}",
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "latexsvg": false,
-            "name": "Einfach-22975",
-            "req": [
-                [
-                    0,
-                    "any",
-                    [
-                        0
-                    ]
-                ]
-            ],
-            "sortf": 0,
-            "tags": [
-                ""
-            ],
-            "tmpls": [
-                {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Rückseite}}",
-                    "bafmt": "",
-                    "bfont": "",
-                    "bqfmt": "",
-                    "bsize": 0,
-                    "did": null,
-                    "name": "Karte 1",
-                    "ord": 0,
-                    "qfmt": "{{Vorderseite}}"
-                }
-            ],
-            "type": 0,
-            "vers": []
-        },
-        {
-            "__type__": "NoteModel",
             "crowdanki_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
             "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
             "flds": [
@@ -1504,6 +2182,63 @@
                     "name": "Karte 1",
                     "ord": 0,
                     "qfmt": "{{Vorderseite}}\n"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "ce2446f7-0297-11eb-bc86-4ccc6a4d8422",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Vorderseite",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Rückseite",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Einfach-22975",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [
+                ""
+            ],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Rückseite}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Karte 1",
+                    "ord": 0,
+                    "qfmt": "{{Vorderseite}}"
                 }
             ],
             "type": 0,
