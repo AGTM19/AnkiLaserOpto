@@ -3,6 +3,165 @@
     "children": [
         {
             "__type__": "Deck",
+            "children": [
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "ce235e44-0297-11eb-a4e9-4ccc6a4d8422",
+                    "deck_config_uuid": "4de1d3e1-a0f4-11ea-aa1d-b4d5bdceb84f",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 10,
+                    "extendRev": 50,
+                    "media_files": [],
+                    "name": "LDA",
+                    "notes": []
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "ce235e40-0297-11eb-adc8-4ccc6a4d8422",
+                    "deck_config_uuid": "4de1d3e1-a0f4-11ea-aa1d-b4d5bdceb84f",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 10,
+                    "extendRev": 50,
+                    "media_files": [],
+                    "name": "Materialbearbeitung und Fügung",
+                    "notes": []
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "ce235e48-0297-11eb-9d4f-4ccc6a4d8422",
+                    "deck_config_uuid": "4de1d3e1-a0f4-11ea-aa1d-b4d5bdceb84f",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 10,
+                    "extendRev": 50,
+                    "media_files": [],
+                    "name": "Windkanal",
+                    "notes": []
+                }
+            ],
+            "crowdanki_uuid": "ce235e3c-0297-11eb-89ac-4ccc6a4d8422",
+            "deck_config_uuid": "4de1d3e1-a0f4-11ea-aa1d-b4d5bdceb84f",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [],
+            "name": "V Anwendung",
+            "notes": []
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "ce23ab5c-0297-11eb-abe0-4ccc6a4d8422",
+            "deck_config_uuid": "4de1d3e1-a0f4-11ea-aa1d-b4d5bdceb84f",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [],
+            "name": "III Nichtlineare Optik",
+            "notes": []
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "ce238431-0297-11eb-9560-4ccc6a4d8422",
+            "deck_config_uuid": "4de1d3e1-a0f4-11ea-aa1d-b4d5bdceb84f",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [],
+            "name": "IV Photoelektronik",
+            "notes": []
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "9a2c06b9-0c8e-11eb-bb5a-4ccc6a4d8422",
+            "deck_config_uuid": "4de1d3e1-a0f4-11ea-aa1d-b4d5bdceb84f",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [],
+            "name": "0 Motivation/Einführung",
+            "notes": []
+        },
+        {
+            "__type__": "Deck",
+            "children": [
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "9a2c2d9b-0c8e-11eb-97d1-4ccc6a4d8422",
+                    "deck_config_uuid": "4de1d3e1-a0f4-11ea-aa1d-b4d5bdceb84f",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 10,
+                    "extendRev": 50,
+                    "media_files": [],
+                    "name": "2 Laser-Beispiele",
+                    "notes": []
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "9a2c2d9f-0c8e-11eb-baac-4ccc6a4d8422",
+                    "deck_config_uuid": "4de1d3e1-a0f4-11ea-aa1d-b4d5bdceb84f",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 10,
+                    "extendRev": 50,
+                    "media_files": [],
+                    "name": "3 Resonatoren",
+                    "notes": []
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "9a2c5490-0c8e-11eb-976b-4ccc6a4d8422",
+                    "deck_config_uuid": "4de1d3e1-a0f4-11ea-aa1d-b4d5bdceb84f",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 10,
+                    "extendRev": 50,
+                    "media_files": [],
+                    "mid": 1590151653781,
+                    "name": "1 Lasertätigkeit: Verstärkung und Schwellenbedingung",
+                    "notes": []
+                }
+            ],
+            "crowdanki_uuid": "9a2c2d97-0c8e-11eb-9d1c-4ccc6a4d8422",
+            "deck_config_uuid": "4de1d3e1-a0f4-11ea-aa1d-b4d5bdceb84f",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [],
+            "name": "II Laserphysik",
+            "notes": []
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "9a2c5494-0c8e-11eb-80cf-4ccc6a4d8422",
+            "deck_config_uuid": "4de1d3e1-a0f4-11ea-aa1d-b4d5bdceb84f",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [],
+            "name": "I Einführung",
+            "notes": []
+        },
+        {
+            "__type__": "Deck",
             "children": [],
             "crowdanki_uuid": "ce238435-0297-11eb-ab63-4ccc6a4d8422",
             "deck_config_uuid": "4de1d3e1-a0f4-11ea-aa1d-b4d5bdceb84f",
@@ -55,7 +214,7 @@
                 "latex-fc2ac0e7f8263376dde03e0754bfef7011717b6e.png"
             ],
             "mid": 1591716652010,
-            "name": "0 Motivation/Einführung",
+            "name": "0 Motivation/Einführung_2",
             "notes": [
                 {
                     "__type__": "Note",
@@ -317,81 +476,465 @@
                 {
                     "__type__": "Deck",
                     "children": [],
-                    "crowdanki_uuid": "ce235e40-0297-11eb-adc8-4ccc6a4d8422",
-                    "deck_config_uuid": "4de1d3e1-a0f4-11ea-aa1d-b4d5bdceb84f",
-                    "desc": "",
-                    "dyn": 0,
-                    "extendNew": 10,
-                    "extendRev": 50,
-                    "media_files": [],
-                    "name": "Materialbearbeitung und Fügung",
-                    "notes": []
-                },
-                {
-                    "__type__": "Deck",
-                    "children": [],
-                    "crowdanki_uuid": "ce235e48-0297-11eb-9d4f-4ccc6a4d8422",
-                    "deck_config_uuid": "4de1d3e1-a0f4-11ea-aa1d-b4d5bdceb84f",
-                    "desc": "",
-                    "dyn": 0,
-                    "extendNew": 10,
-                    "extendRev": 50,
-                    "media_files": [],
-                    "name": "Windkanal",
-                    "notes": []
-                },
-                {
-                    "__type__": "Deck",
-                    "children": [],
-                    "crowdanki_uuid": "ce235e44-0297-11eb-a4e9-4ccc6a4d8422",
-                    "deck_config_uuid": "4de1d3e1-a0f4-11ea-aa1d-b4d5bdceb84f",
-                    "desc": "",
-                    "dyn": 0,
-                    "extendNew": 10,
-                    "extendRev": 50,
-                    "media_files": [],
-                    "name": "LDA",
-                    "notes": []
-                }
-            ],
-            "crowdanki_uuid": "ce235e3c-0297-11eb-89ac-4ccc6a4d8422",
-            "deck_config_uuid": "4de1d3e1-a0f4-11ea-aa1d-b4d5bdceb84f",
-            "desc": "",
-            "dyn": 0,
-            "extendNew": 10,
-            "extendRev": 50,
-            "media_files": [],
-            "name": "V Anwendung",
-            "notes": []
-        },
-        {
-            "__type__": "Deck",
-            "children": [],
-            "crowdanki_uuid": "ce238431-0297-11eb-9560-4ccc6a4d8422",
-            "deck_config_uuid": "4de1d3e1-a0f4-11ea-aa1d-b4d5bdceb84f",
-            "desc": "",
-            "dyn": 0,
-            "extendNew": 10,
-            "extendRev": 50,
-            "media_files": [],
-            "name": "IV Photoelektronik",
-            "notes": []
-        },
-        {
-            "__type__": "Deck",
-            "children": [
-                {
-                    "__type__": "Deck",
-                    "children": [],
                     "crowdanki_uuid": "35d91437-0409-11eb-b96e-4ccc6a4d8422",
                     "deck_config_uuid": "4de1d3e1-a0f4-11ea-aa1d-b4d5bdceb84f",
                     "desc": "",
                     "dyn": 0,
                     "extendNew": 10,
                     "extendRev": 50,
-                    "media_files": [],
+                    "media_files": [
+                        "latex-00214197163ff57a9de0bc2becc11095b1b167f8.png",
+                        "latex-02ce19dc5d467d4f9736c110e0f18d684ccebb5a.png",
+                        "latex-04a4816727548f4e423400cd99a5509781188e37.png",
+                        "latex-0a52f8a92e2a64235c9d7df9940be94d5043d57a.png",
+                        "latex-103aeacce216179dcf54b31cd7ed28069e05e1ba.png",
+                        "latex-1a57ec6c1e47fed5b87e7842206848e6a6abf75e.png",
+                        "latex-263a6a360fefe453db1ee7087bf0571e8452e2f0.png",
+                        "latex-26f2f081062e2d23321cf2143fd4c2d6f6deea51.png",
+                        "latex-3356d798e6e42488b8185e08b2eb5becb5383d2a.png",
+                        "latex-36601c6809e932544369260c41d10ef80782ccca.png",
+                        "latex-39c942f89c09e1649114a4d4216622b20a2236c5.png",
+                        "latex-3c67fdad7614f8807c6229f12deaf949799003bf.png",
+                        "latex-41fff03584586f57d0b34c611a90bde1b7f3f7f9.png",
+                        "latex-4454c5432190e825cd71eb73722a0acc73015ddf.png",
+                        "latex-4e863226b88c943ebe454a705e006f0ced0d744c.png",
+                        "latex-4ea1174ee0972beb16cecc0a8c60f71c10095871.png",
+                        "latex-50c8e276a1e79ac319878e12b19779dba055f526.png",
+                        "latex-5464370d87b55df66b6c9bed9dbb37fbed4e807f.png",
+                        "latex-581ab9343d1512bff6afd29ee438c57fccb52b9f.png",
+                        "latex-584b4bc9cc121b6e7ecf1463f50d70a8cb4a2e6d.png",
+                        "latex-590ff22d223a99604dcad1cf7d25838d9fd384bc.png",
+                        "latex-5a613e6420a3f1613309ce2155e98722b8757e69.png",
+                        "latex-5dbf08fa5a6c09e20e601a8e4c4fb27a664b58ee.png",
+                        "latex-6aef1b559fc9776f61f3ebbd9cf3536988645c63.png",
+                        "latex-6b023490eda5a5f8a8e0c21843c10281244030ed.png",
+                        "latex-72160540e4aa1791c18dde1f9df853aead3e8012.png",
+                        "latex-722d47a56608135944a0f84e22798fe145a58ee7.png",
+                        "latex-73e54248bd974fe57e4f89e6479b14fa860204d4.png",
+                        "latex-74c0534682ce860a0edae16ce3465f86aede1967.png",
+                        "latex-82a15fa204fc40cca1cb87f80d6a550cc6564709.png",
+                        "latex-83a1fe2cf03b61928005fc8b8d309804454dff2e.png",
+                        "latex-8490db86f7df45b490135871dee9fed15033e784.png",
+                        "latex-940cdd8ee9a8ebf0ec11d0594d13535d1308691b.png",
+                        "latex-999673ccca7715252ee9c62e4b3d7b09c99b4261.png",
+                        "latex-9b2c2dc0d7405e4561e23e5c877881a1b219dc2b.png",
+                        "latex-a8b12e3745a758a555091ae45c9d3c3d9306dcea.png",
+                        "latex-ac8f025986eef81159a8212018bc75236c333ad9.png",
+                        "latex-afb5305889b02406a17ee25afb8f36bb8ff69b7b.png",
+                        "latex-b4b47d8f38c50831979648374a0eac9b79385b5b.png",
+                        "latex-b767443cb9080a665021a087ba4b13e129b040b7.png",
+                        "latex-b90c0c0cc01b243ae59938a62ba6b1e1a8243afa.png",
+                        "latex-c8e994abe14ed5b9e5f981c02d121d8dfeda6c8f.png",
+                        "latex-c9bec3615bd61757fc6a794a865ffbc507a6e5a3.png",
+                        "latex-caeacf18bf3828dfaddd4c113c254ed2b999a3dd.png",
+                        "latex-cbfd56b451bcc79df383beb10a6f30f8a2e59a98.png",
+                        "latex-ccb9c89aa0078fa757a8163a73cf744f1779c039.png",
+                        "latex-cd16418d196b67e5c4933d6f3d32affe44e732ad.png",
+                        "latex-cda57b5ba4cf5a58b9e03c693301249f686ed571.png",
+                        "latex-d018f2d629fc06ffe6970e661393b4bfa14648d0.png",
+                        "latex-d50e583faba27778526eb5a0d8490d2a3fc8ff70.png",
+                        "latex-d745f129b464ff3638df968ae30c34600e20f825.png",
+                        "latex-d8a211f47e960a3880cca79c8e522d4d5c8b4935.png",
+                        "latex-daf9b4baa445b132670d3c2dabd478c7d273730a.png",
+                        "latex-de844b50576a2ca3eb35e67f05811b5c177fa554.png",
+                        "latex-e2d56a67db9d118ff9c33663534644044dfafd18.png",
+                        "latex-e3d54de31a3ff5717014c73d320b5665655fe479.png",
+                        "latex-e81cb85881e294597c1d886bc9c26a033de90cfb.png",
+                        "latex-f325526b72eb6990b069b6c21da92ed9303d8bff.png",
+                        "latex-f939d297613616f771c4fac7b2109db2c3d4124a.png",
+                        "latex-f9bc9259a5fba2ef1be1def2ff246e53fe239192.png",
+                        "latex-fb5c313f92f4273c185e51b337e61f881b5475ec.png",
+                        "paste-07ef8e04affef051ea87d04935cd2dfc6e1ecd78.jpg",
+                        "paste-13c82bb300cbad13421bd19ee2cd460330c3e58a.jpg",
+                        "paste-1a5da1cb075b0edbf606bb70be03f9fe40e155ed.jpg",
+                        "paste-3a08a8e22b4834cfe4306945913624e2b7425da3.jpg",
+                        "paste-5b6889b7d6d77f54362bed85560027faf7446fa1.jpg",
+                        "paste-5bba62d7e3e9d069656ac18785f635f29bc596ef.jpg",
+                        "paste-7adc7afbafee5a185b7d3a9538f21a1348649b82.jpg",
+                        "paste-7d328b55529b85e2495961a11cb3d80f5c300c63.jpg",
+                        "paste-aacb227540bd5e9a35fa70b702ccb4193614fee5.jpg",
+                        "paste-b056006079d18337438ec216abcc769d4ce1bac8.jpg",
+                        "paste-e6fca77018f7813c776b9bde764fb80087e4357b.jpg",
+                        "paste-e756ea3380e8fac57bed0018472b8d303e4f37a7.jpg",
+                        "paste-f08ae0b32721967a555b055fbf5a878359f0ebc3.jpg",
+                        "paste-f3c77110ca80b118d60527788f621a94f9a32164.jpg",
+                        "paste-f54cd8ff66c60cd344401d95ec5e77923a9fa99c.jpg"
+                    ],
                     "name": "4 Praxiale Wellengleichung und Moden",
-                    "notes": []
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Woraus ergibt sich unter welchen Vereinfachungen die Helmholzgleichung?[/latex]<br>",
+                                "[latex]Aus der Maxwel'schen Gleichung für Lichtausbreitung im Vakuum.\\begin{itemize}<div>&nbsp; \\item skalar</div><div>&nbsp; \\item monochromatische Felder</div><div>\\end{itemize}[/latex]</div>"
+                            ],
+                            "flags": 0,
+                            "guid": "D5t[Ky&YN/",
+                            "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Was sind zwei prominente Lösungen der Helmholzgleichung? Welche davon trifft auf Licht zu?[/latex]",
+                                "[latex]\\begin{itemize}<div>&nbsp; \\item Ebene Welle</div><div>&nbsp; \\item Kugelwelle</div><div>\\end{itemize}</div><div>Keine trifft auf Licht zu. Licht ist eher Kombination aus beidem.[/latex]</div>"
+                            ],
+                            "flags": 0,
+                            "guid": "JIkzHlAV#%",
+                            "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Wie lautet die paraxiale Wellengleichung?[/latex]",
+                                "<img src=\"paste-13c82bb300cbad13421bd19ee2cd460330c3e58a.jpg\">"
+                            ],
+                            "flags": 0,
+                            "guid": "znO;8?RQ0y",
+                            "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Was vernachlässigt die paraxiale Wellengleichung?[/latex]<br>",
+                                "[latex]Dass Strahlung experimentell ein Gaußsches Intensitätsprofil hat.[/latex]"
+                            ],
+                            "flags": 0,
+                            "guid": "t6_,rD%/~+",
+                            "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Was ist die Rayleigh-Länge?[/latex]",
+                                "[latex]Die Länge, nach dem der Laser von seiner Strahl-Taille an eine Aufweitung um Faktor $\\sqrt{2}$ hat.\\\\<div>$z_0 = \\dfrac{\\pi{w_0}^2}{\\lambda}$[/latex]</div><div><img src=\"paste-5b6889b7d6d77f54362bed85560027faf7446fa1.jpg\"><br></div>"
+                            ],
+                            "flags": 0,
+                            "guid": "C:fNOI9{uA",
+                            "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Nennen Sie ein Beispiel, für das die Rayleigh-Länge wichtig ist.[/latex]",
+                                "[latex]Laser-Bohren von Materialien. Der Laser-Strahl sollte sich bis in Lochtiefe nicht allzu sehr aufgeweitet haben.[/latex]"
+                            ],
+                            "flags": 0,
+                            "guid": "e^W^3oI)%9",
+                            "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Beschreiben Sie die Strahl-Taille.[/latex]",
+                                "[latex]Ein Strahl ist nie perfekt gebündelt. Damit hat er auf jeden Fall irgend wo eine engste Stelle. Dies ist die Strahl-Taille.[/latex]"
+                            ],
+                            "flags": 0,
+                            "guid": "e5U*wYC39t",
+                            "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Wie verhält sich die Aufweitung eines Laser-Strahls endlicher Dicke aus geometrischem Blickpunkt?[/latex]<br>",
+                                "[latex]Hyperbolisch.[/latex]"
+                            ],
+                            "flags": 0,
+                            "guid": "F7|C,ZN_%T",
+                            "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Welchen Radius müssen die Resonatoren haben, damit sich eine stationäre Lösung der Strahlen einstellen kann?[/latex]",
+                                "[latex]Die Radien müssen gerade den Radien der Wellenfront der einhüllenden des Gaußstrahls entsprechen.[/latex]<div><img src=\"paste-5bba62d7e3e9d069656ac18785f635f29bc596ef.jpg\"><br></div>"
+                            ],
+                            "flags": 0,
+                            "guid": "q&{>-l8wer",
+                            "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]In welche Teile lässt sich der Einfluss des Resonators auf die mögliche Resonanzfrequenz des Lichtes aufteilen? Warum?[/latex]<br>",
+                                "<div><img src=\"paste-7adc7afbafee5a185b7d3a9538f21a1348649b82.jpg\"></div><div>[latex]Der blaue Anteil berücksichtigt, dass der Abstand der Spiegel ein ganzzahliges Vielfaches der Wellenlänge sein muss.\\\\</div><div>Aber die gekrümmten Strahlen müssen etwas mehr distanz zurücklegen, als die geraden Strahlen in Achs-Nähe.[/latex]<br></div><div><img src=\"paste-e756ea3380e8fac57bed0018472b8d303e4f37a7.jpg\"><br></div>"
+                            ],
+                            "flags": 0,
+                            "guid": "w;ne4/@0#I",
+                            "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Sagen Sie etwas zu verschiedenen Moden der Paraxialen Wellengleichung.[/latex]<br>",
+                                "[latex]Durch die verschiedenen Distanzen, die ein Lichtstrahl innerhalb eines Resontators zurücklegen kann, kommt es zu unterschiedlichen Moden. Dabei können sowohl in x- als auch in y-Richtung weitere Moden hinzukommen.\\\\<div>Moden haben verschiedene Ordnungen (TEM - Transversale elektromagnetische Ordnung). Diese Moden sind im Allgemeinen symmetrisch.[/latex]</div>"
+                            ],
+                            "flags": 0,
+                            "guid": "zZ&,;%3H)0",
+                            "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Warum snd diese Bilder nicht rotationssymmetrisch, wie man es von Transversalen Moden eigentlich erwarten würde?[/latex]<br><div><img src=\"paste-3a08a8e22b4834cfe4306945913624e2b7425da3.jpg\"><br></div>",
+                                "[latex]Das hat den Grund in der Apertur. Diese schneidet die Moden ab.[/latex]<br>"
+                            ],
+                            "flags": 0,
+                            "guid": "mrj#_X`hme",
+                            "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Was kann getan werden, um Transversale Moden zu vermeiden?[/latex]",
+                                "[latex]Modenblende.\\\\<div>Schneidet Wellen am Rand ab.[/latex]</div><div><img src=\"paste-b056006079d18337438ec216abcc769d4ce1bac8.jpg\"><br></div>"
+                            ],
+                            "flags": 0,
+                            "guid": "NM55d7^0Lq",
+                            "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Warum kommen Festkörperlaser oft gut ohne Modenblende aus?[/latex]<br>",
+                                "[latex]Werden gern durch andere Laser gepumpt. Wenn die Besetzungsinversion schon Pumpmode.\\\\Klappt nur, wenn Pumpquelle hinreichend gut ist.[/latex]"
+                            ],
+                            "flags": 0,
+                            "guid": "BP#lH};]|d",
+                            "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Der Mode welcher Transversalen elektromagnetischen Ordnung (TEM$_mn$) ist in der Regel erwünscht?[/latex]",
+                                "[latex]Die Transversale Grundmode, TEM$_{mn}$.[/latex]"
+                            ],
+                            "flags": 0,
+                            "guid": "J=@oc.G%ca",
+                            "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Auf welche Arten kann man longitudinale monomodigkeit erreichen?[/latex]",
+                                "[latex]\\begin{itemize}<div>&nbsp; \\item Länge des aktiven Mediums kleiner halten, als die diszanz zur nächsten Resonanzfrequenz</div><div>&nbsp; \\item Fabry-Perot-Etalon<br><div>\\end{itemize}[/latex]</div></div>"
+                            ],
+                            "flags": 0,
+                            "guid": "Pom!`_Ro/&",
+                            "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Wo liegt das Problem bei der einhaltung der longitudinalen monomodigkeit durch einstellen der Resonatorlänge?[/latex]",
+                                "[latex]Bei hochfrequenten Lasern wird die Resonatorlänge schlenn sehr klein. Oft ist aber ein Mindestvolumen an aktivem Medium notwendig, um die Laser-Schwelle zu erreichen.[/latex]"
+                            ],
+                            "flags": 0,
+                            "guid": "Fg1?:OPKP5",
+                            "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Wie ist die Funktionsweise eines Fabry-Perot-Etalons?[/latex]",
+                                "[latex]Lässt nur die gewünschte Frequenz des Laserlichts durch und blockiert den rest.\\\\<div>Reflektierte Frequenz ist abhängig von der Finesse. Diese kann eingestellt werden durch den Winkel, in dem das Fabry-Perot-Etalon eingebaut ist.[/latex]</div><div><img src=\"paste-e6fca77018f7813c776b9bde764fb80087e4357b.jpg\"><br></div><div><img src=\"paste-f08ae0b32721967a555b055fbf5a878359f0ebc3.jpg\"><br></div><div><img src=\"paste-aacb227540bd5e9a35fa70b702ccb4193614fee5.jpg\"><br></div>"
+                            ],
+                            "flags": 0,
+                            "guid": "JE*J>?|~3W",
+                            "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Wozu kann man gepulste Laser gebrauchen?[/latex]<br>",
+                                "[latex]Falls hohe Spitzenleistungen oder kurze Impulse gefordert sind\\begin{itemize}<div>&nbsp; \\item Materialbearbeitung, Medizintechnik</div><div>&nbsp; \\item nichtlineare Optik (Frequenzkonversion)</div><div>&nbsp; \\item Messungen mit höchster Zeitauflösung</div><div>\\end{itemize}[/latex]</div>"
+                            ],
+                            "flags": 0,
+                            "guid": "oeu{n{B-.8",
+                            "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Auf welche Arten kann man einen Laser instationär machen?[/latex]",
+                                "[latex]\\begin{itemize}<div>&nbsp; \\item Instationär Pumpen</div><div>&nbsp; \\item Güteschaltung (Q-Switching)<br><div>\\end{itemize}[/latex]</div></div>"
+                            ],
+                            "flags": 0,
+                            "guid": "wLd}];#f}i",
+                            "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Wie verhälst sich die Laserintensität beim Einschalten der Pumpquelle? Für welchen Betrieb ist das Verhalten wichtig?[/latex]",
+                                "[latex]Dadurch, dass der Laser anlaufen muss, wird am Anfang das obere Laserniveau mehr gefüllt, als im stationären Zustand. Wenn die stimulierte Emission dann beginnt, kommt es zu einem Pik. Dieses \\textbf{Spiking} wiederholt sich einige male für eine Dauer im Bereich von \\textbf{Mikrosekunden}; Man nennt es \\textbf{Relaxations-Oszillation}.\\\\<div><br></div><div>Das Verhalten ist wichtig für gepulste Laser.[/latex]</div>"
+                            ],
+                            "flags": 0,
+                            "guid": "BAo}EelDTr",
+                            "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Wie ist die Funktionsweise der Güteschalltung?[/latex]",
+                                "[latex]Ein Q-Switch sorgt dafür, dass der Resonator nicht als solcher fungiert, sondern das Licht auskoppelt. Es entsteh eine Besetzung des oberen Laserniveaus, die normalerweise in der Intensität nicht stattfinden würde.\\\\Stellt man den Resonator nun scharf, so erzeugt die stimulierte Emission einen Überschwinger (im Vergleich zum stationären Zustand).\\\\Der Zeitbereich dieses Riesenimpulses liegt bei Nanosekunden.[/latex]<div><img src=\"paste-7d328b55529b85e2495961a11cb3d80f5c300c63.jpg\"><br></div>"
+                            ],
+                            "flags": 0,
+                            "guid": "OezDZX.eQs",
+                            "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Beschreiben Sie die prinzipielle funktionsweise von Modenkopplung?[/latex]<br>",
+                                "[latex]Beim Überlagern zweier Frequenzen mit einem Frequenzabsrand $\\delta$ kommt es zu kohärenten Schwebungen, die durch zeitliche Interferenven auftreten. Der Frequenzabstand ist dabei $1/\\delta$.[/latex]<div><img src=\"paste-f3c77110ca80b118d60527788f621a94f9a32164.jpg\"><br></div>"
+                            ],
+                            "flags": 0,
+                            "guid": "CaKe2^U9Wt",
+                            "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Wie groß ist der Zeitliche Abstand der Impulse eines Lasers in Abhängigkeit der Resonatorlänge?[/latex]<br>",
+                                "[latex]$1/\\delta=2L/c$[/latex]"
+                            ],
+                            "flags": 0,
+                            "guid": "QloZ_SC4<y",
+                            "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Wie viele Moden werden in einem Modengekoppelten Laser verwendet? Was erreicht man mit einer höheren Anzahl an Moden?[/latex]",
+                                "[latex]10 bis über 100000.\\\\Destruktive Interferenz zwischen den Pulsen wird stärker, so hat man zwischen den Pulsen weniger Licht.[/latex]"
+                            ],
+                            "flags": 0,
+                            "guid": "j&N(muKL,9",
+                            "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Wie kann Modenkopplung erreicht werden?[/latex]",
+                                "[latex]\\begin{itemize}<div>&nbsp; \\item aktiv\\\\</div><div>über z.B. elektro- oder akusto-optischen Modulator im Takt der Resonator-Umlaufzeit $2L/c$\\\\</div><div>(Geht, aber unelegant)</div><div>&nbsp; \\item passiv\\\\</div><div>über z.B. Kerr-Linse\\\\</div><div>(Bevorzugte Variante)<br><div>\\end{itemize}[/latex]</div></div>"
+                            ],
+                            "flags": 0,
+                            "guid": "d|R9-+lhaZ",
+                            "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Was ist eine Kerr-Linse und wie funktioniert sie?[/latex]",
+                                "[latex]Kerr-Linse ist ein nichtlineares-optisches Element, eingesetzt im Resonator zur Erreichung von Modenkopplung.\\\\<div>Sie basiert auf dem nichtlinearen Effekt der Brechungsindexveränderung (Dispersion) bei sehr hohen intensitäten.\\\\</div><div><br></div><div>Normalerweise schneidet die Kerr-Linse an der Apertur das Licht so ab, dass sich kein cw-Betrieb einstellen kann. Kommt aber ein hoher Impuls (woher auch immer), so ändert sich der Brechungsindex der Linse auf eine Weise, dass das Laserlicht fokussiert wird und passieren kann.\\\\</div><div>Moden werden so automatisch gekoppelt und Laser pulst mit Frequenz $c/2L$.\\\\</div><div><br></div><div>(Funfact, man muss den Laser am Anfang anklopfen, damit es zum ersten Puls kommt ^^)[/latex]</div><div><img src=\"paste-1a5da1cb075b0edbf606bb70be03f9fe40e155ed.jpg\"><br></div>"
+                            ],
+                            "flags": 0,
+                            "guid": "i14G[ilL_1",
+                            "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Wodurch ist der kürzeste zeitliche Impuls eines Lasers am ende physikalsich begrenzt? In welchem Bereich liegt die Dauer des Impulses?[/latex]",
+                                "[latex]Durch die Zeit, die die Laserwelle braucht um ein mal auf- und abzuschwingen.\\\\<div>Im bereich von wenigen Femptosekunden ($5\\,$fs ist realistisch erreichbar für Titan-Saphir Laser).[/latex]</div>"
+                            ],
+                            "flags": 0,
+                            "guid": "tNV$Hr;J!L",
+                            "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Welches Problem verursacht Dispersion des Verstärkungsmediums bei einem gepulsten Laser? Welche Gegenmaßnahmen gibt es?[/latex]",
+                                "[latex]Der Brechungsindex des Aktiven Mediums ist derart, dass rotes Licht schneller passieren kann, als blaues Licht. Der Impuls wird \\textbf{zeitlich gestreckt}, man sagt \\textbf{spektral gechirped}.\\\\<div>Gegenmaßnahmen:\\begin{itemize}<div>&nbsp; \\item Sequenz von Brewsterprismen</div><div>&nbsp; \\item Gechirpte Spiegel</div><div>\\end{itemize}[/latex]</div></div>"
+                            ],
+                            "flags": 0,
+                            "guid": "g.%;q(/E>^",
+                            "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Erläutern Sie die Funktionsweise von Bewsterprismen im Zusammenhang gepulster Laser.[/latex]",
+                                "[latex]Sie werden in einer Sequenz eingesetzt zur Dispersionskompensation in einem Gepulsten Laser.\\\\<div>Da Licht innerhalb eines Mediums deutlich langsamer ist, als in Vakuum/Luft, werden die Spiegel so angeordnet, dass das Licht, das zuerst kommt (Rote Seite) länger durch Medien fließen muss, als das hinter Licht (Blaue Seite). So kommt am Ende der gesamte Impuls gleichzeitig an.[/latex]</div><div><img src=\"paste-f54cd8ff66c60cd344401d95ec5e77923a9fa99c.jpg\"><br></div>"
+                            ],
+                            "flags": 0,
+                            "guid": ".)$fs8Cv]",
+                            "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "[latex]Erläutern Sie die Funktionsweise gechirpter Spiegel im Zusammenhang gepulster Laser.[/latex]<br>",
+                                "[latex]Ein gechirpter Spiegel ist so aufgebaut, dass langwellige (und damit schnellere Frequenzen) eher weiter hinten gespiegelt werden (also einen längeren Reiseweg haben), sodass der gesamte Impuls am ende wieder möglichst nah zusammen ist.[/latex]<div><img src=\"paste-07ef8e04affef051ea87d04935cd2dfc6e1ecd78.jpg\"><br></div>"
+                            ],
+                            "flags": 0,
+                            "guid": "s0s@+$#.U!",
+                            "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                            "tags": []
+                        }
+                    ]
                 },
                 {
                     "__type__": "Deck",
@@ -1537,20 +2080,7 @@
             "extendNew": 10,
             "extendRev": 50,
             "media_files": [],
-            "name": "II Laserphysik",
-            "notes": []
-        },
-        {
-            "__type__": "Deck",
-            "children": [],
-            "crowdanki_uuid": "ce23ab5c-0297-11eb-abe0-4ccc6a4d8422",
-            "deck_config_uuid": "4de1d3e1-a0f4-11ea-aa1d-b4d5bdceb84f",
-            "desc": "",
-            "dyn": 0,
-            "extendNew": 10,
-            "extendRev": 50,
-            "media_files": [],
-            "name": "III Nichtlineare Optik",
+            "name": "II Laserphysik_2",
             "notes": []
         },
         {
@@ -1640,7 +2170,7 @@
                 "paste-e0afb27fdb187422b6bf97fefa5180837c39e6cb.jpg",
                 "paste-e5ba8ebb53d1c9c0402019da26a8df69645570f6.jpg"
             ],
-            "name": "I Einführung",
+            "name": "I Einführung_2",
             "notes": [
                 {
                     "__type__": "Note",
